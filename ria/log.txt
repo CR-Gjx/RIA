@@ -1,0 +1,1280 @@
+Logging to /share/jguo/Con-trajectory/data//PENDULUM//NORMALIZED/TMCL/PROB/CEM/CAND_200/T_BATCH_250/S_BATCH_10/T_S_BATCH_256/IE_3/EPOCH_50/ENS_5/HEAD_5/SEP_0/USE_IE/H_10/F_5/BACK_COEFF_0.5/DIFF/GLOBAL_HEAD/tag_relationweight/hidden_200_lr_0.001_horizon_30_seed_0/
+
+ ---------------- Iteration 0 ----------------
+Obtaining random samples from the environment...
+Processing environment samples...
+Training dynamics model for 50 epochs ...
+Training DynamicsModel - finished epoch 0 --[Training] contrast loss: 0.5311  mse loss: 2.9116  back mse loss: 2.8602  recon loss: 1.2727  pred error: 0.5813  epoch time: 7.73
+Training DynamicsModel - finished epoch 1 --[Training] contrast loss: 0.3323  mse loss: 0.6811  back mse loss: 0.6357  recon loss: -11.5120  pred error: 0.1335  epoch time: 4.82
+Training DynamicsModel - finished epoch 2 --[Training] contrast loss: 0.3272  mse loss: 0.3150  back mse loss: 0.3222  recon loss: -15.9529  pred error: 0.0598  epoch time: 4.83
+Training DynamicsModel - finished epoch 3 --[Training] contrast loss: 0.3193  mse loss: 0.1678  back mse loss: 0.2170  recon loss: -19.2919  pred error: 0.0311  epoch time: 4.83
+Training DynamicsModel - finished epoch 4 --[Training] contrast loss: 0.3108  mse loss: 0.1235  back mse loss: 0.1565  recon loss: -21.0335  pred error: 0.0228  epoch time: 4.83
+Training DynamicsModel - finished epoch 5 --[Training] contrast loss: 0.3059  mse loss: 0.1468  back mse loss: 0.1352  recon loss: -18.8745  pred error: 0.0277  epoch time: 4.88
+Training DynamicsModel - finished epoch 6 --[Training] contrast loss: 0.3017  mse loss: 0.0978  back mse loss: 0.1504  recon loss: -21.0449  pred error: 0.0190  epoch time: 4.88
+Training DynamicsModel - finished epoch 7 --[Training] contrast loss: 0.2923  mse loss: 0.0869  back mse loss: 0.1362  recon loss: -22.8090  pred error: 0.0166  epoch time: 5.08
+Training DynamicsModel - finished epoch 8 --[Training] contrast loss: 0.2978  mse loss: 0.0796  back mse loss: 0.0934  recon loss: -24.8888  pred error: 0.0146  epoch time: 5.01
+Training DynamicsModel - finished epoch 9 --[Training] contrast loss: 0.2834  mse loss: 0.0754  back mse loss: 0.0900  recon loss: -25.6495  pred error: 0.0143  epoch time: 5.07
+Training DynamicsModel - finished epoch 10 --[Training] contrast loss: 0.2962  mse loss: 0.0832  back mse loss: 0.1354  recon loss: -22.9188  pred error: 0.0158  epoch time: 5.03
+Training DynamicsModel - finished epoch 11 --[Training] contrast loss: 0.2911  mse loss: 0.0758  back mse loss: 0.1079  recon loss: -24.1104  pred error: 0.0144  epoch time: 5.01
+Training DynamicsModel - finished epoch 12 --[Training] contrast loss: 0.2877  mse loss: 0.0643  back mse loss: 0.0875  recon loss: -25.6351  pred error: 0.0124  epoch time: 5.10
+Training DynamicsModel - finished epoch 13 --[Training] contrast loss: 0.2832  mse loss: 0.0623  back mse loss: 0.2000  recon loss: -25.8049  pred error: 0.0118  epoch time: 5.39
+Training DynamicsModel - finished epoch 14 --[Training] contrast loss: 0.2851  mse loss: 0.0589  back mse loss: 0.2207  recon loss: -25.8319  pred error: 0.0114  epoch time: 5.09
+Training DynamicsModel - finished epoch 15 --[Training] contrast loss: 0.2843  mse loss: 0.0572  back mse loss: 0.1396  recon loss: -26.3674  pred error: 0.0110  epoch time: 5.28
+Training DynamicsModel - finished epoch 16 --[Training] contrast loss: 0.2839  mse loss: 0.0567  back mse loss: 0.1265  recon loss: -26.0102  pred error: 0.0109  epoch time: 5.39
+Training DynamicsModel - finished epoch 17 --[Training] contrast loss: 0.2740  mse loss: 0.0564  back mse loss: 0.0999  recon loss: -25.8154  pred error: 0.0108  epoch time: 5.50
+Training DynamicsModel - finished epoch 18 --[Training] contrast loss: 0.2781  mse loss: 0.0524  back mse loss: 0.1123  recon loss: -26.2448  pred error: 0.0100  epoch time: 5.29
+Training DynamicsModel - finished epoch 19 --[Training] contrast loss: 0.2746  mse loss: 0.0502  back mse loss: 0.1284  recon loss: -26.6949  pred error: 0.0098  epoch time: 5.57
+Training DynamicsModel - finished epoch 20 --[Training] contrast loss: 0.2733  mse loss: 0.0511  back mse loss: 0.1323  recon loss: -26.4905  pred error: 0.0098  epoch time: 5.46
+Training DynamicsModel - finished epoch 21 --[Training] contrast loss: 0.2691  mse loss: 0.0483  back mse loss: 0.1422  recon loss: -27.0117  pred error: 0.0094  epoch time: 5.57
+Training DynamicsModel - finished epoch 22 --[Training] contrast loss: 0.2668  mse loss: 0.0493  back mse loss: 0.1209  recon loss: -26.6685  pred error: 0.0096  epoch time: 5.60
+Training DynamicsModel - finished epoch 23 --[Training] contrast loss: 0.2688  mse loss: 0.0480  back mse loss: 0.1139  recon loss: -26.9147  pred error: 0.0094  epoch time: 6.14
+Training DynamicsModel - finished epoch 24 --[Training] contrast loss: 0.2604  mse loss: 0.0463  back mse loss: 0.0924  recon loss: -27.1152  pred error: 0.0090  epoch time: 5.56
+Training DynamicsModel - finished epoch 25 --[Training] contrast loss: 0.2638  mse loss: 0.0466  back mse loss: 0.0823  recon loss: -26.9619  pred error: 0.0090  epoch time: 5.42
+Training DynamicsModel - finished epoch 26 --[Training] contrast loss: 0.2644  mse loss: 0.0592  back mse loss: 0.1186  recon loss: -25.3277  pred error: 0.0118  epoch time: 5.61
+Training DynamicsModel - finished epoch 27 --[Training] contrast loss: 0.2653  mse loss: 0.0634  back mse loss: 0.1396  recon loss: -25.7265  pred error: 0.0121  epoch time: 6.04
+Training DynamicsModel - finished epoch 28 --[Training] contrast loss: 0.2630  mse loss: 0.0478  back mse loss: 0.1054  recon loss: -26.5682  pred error: 0.0093  epoch time: 5.74
+Training DynamicsModel - finished epoch 29 --[Training] contrast loss: 0.2584  mse loss: 0.0464  back mse loss: 0.0947  recon loss: -26.8894  pred error: 0.0090  epoch time: 5.70
+Training DynamicsModel - finished epoch 30 --[Training] contrast loss: 0.2581  mse loss: 0.0460  back mse loss: 0.1030  recon loss: -27.0362  pred error: 0.0089  epoch time: 5.78
+Training DynamicsModel - finished epoch 31 --[Training] contrast loss: 0.2569  mse loss: 0.0449  back mse loss: 0.0872  recon loss: -27.1058  pred error: 0.0088  epoch time: 5.72
+Training DynamicsModel - finished epoch 32 --[Training] contrast loss: 0.2480  mse loss: 0.0436  back mse loss: 0.0720  recon loss: -27.1371  pred error: 0.0084  epoch time: 5.77
+Training DynamicsModel - finished epoch 33 --[Training] contrast loss: 0.2581  mse loss: 0.0443  back mse loss: 0.0746  recon loss: -27.1973  pred error: 0.0086  epoch time: 5.93
+Training DynamicsModel - finished epoch 34 --[Training] contrast loss: 0.2517  mse loss: 0.0428  back mse loss: 0.0715  recon loss: -27.2956  pred error: 0.0083  epoch time: 5.52
+Training DynamicsModel - finished epoch 35 --[Training] contrast loss: 0.2497  mse loss: 0.0432  back mse loss: 0.0613  recon loss: -27.0562  pred error: 0.0084  epoch time: 6.18
+Training DynamicsModel - finished epoch 36 --[Training] contrast loss: 0.2493  mse loss: 0.0425  back mse loss: 0.0585  recon loss: -27.3598  pred error: 0.0083  epoch time: 6.64
+Training DynamicsModel - finished epoch 37 --[Training] contrast loss: 0.2479  mse loss: 0.0429  back mse loss: 0.0557  recon loss: -27.2211  pred error: 0.0084  epoch time: 5.49
+Training DynamicsModel - finished epoch 38 --[Training] contrast loss: 0.2418  mse loss: 0.0409  back mse loss: 0.0548  recon loss: -27.4540  pred error: 0.0081  epoch time: 6.33
+Training DynamicsModel - finished epoch 39 --[Training] contrast loss: 0.2343  mse loss: 0.0409  back mse loss: 0.0535  recon loss: -27.4373  pred error: 0.0080  epoch time: 5.58
+Training DynamicsModel - finished epoch 40 --[Training] contrast loss: 0.2347  mse loss: 0.0448  back mse loss: 0.0614  recon loss: -26.4804  pred error: 0.0087  epoch time: 5.57
+Training DynamicsModel - finished epoch 41 --[Training] contrast loss: 0.2375  mse loss: 0.0474  back mse loss: 0.0884  recon loss: -26.0566  pred error: 0.0092  epoch time: 5.82
+Training DynamicsModel - finished epoch 42 --[Training] contrast loss: 0.2385  mse loss: 0.0450  back mse loss: 0.0619  recon loss: -27.1701  pred error: 0.0089  epoch time: 5.96
+Training DynamicsModel - finished epoch 43 --[Training] contrast loss: 0.2315  mse loss: 0.0409  back mse loss: 0.0539  recon loss: -27.5678  pred error: 0.0081  epoch time: 5.65
+Training DynamicsModel - finished epoch 44 --[Training] contrast loss: 0.2256  mse loss: 0.0398  back mse loss: 0.0527  recon loss: -27.6763  pred error: 0.0079  epoch time: 5.50
+Training DynamicsModel - finished epoch 45 --[Training] contrast loss: 0.2286  mse loss: 0.0404  back mse loss: 0.1005  recon loss: -27.6738  pred error: 0.0080  epoch time: 5.73
+Training DynamicsModel - finished epoch 46 --[Training] contrast loss: 0.2320  mse loss: 0.0446  back mse loss: 0.0796  recon loss: -25.7013  pred error: 0.0088  epoch time: 5.81
+Training DynamicsModel - finished epoch 47 --[Training] contrast loss: 0.2208  mse loss: 0.0395  back mse loss: 0.0705  recon loss: -27.2269  pred error: 0.0078  epoch time: 5.71
+Training DynamicsModel - finished epoch 48 --[Training] contrast loss: 0.2215  mse loss: 0.0396  back mse loss: 0.0612  recon loss: -27.6412  pred error: 0.0077  epoch time: 5.82
+Training DynamicsModel - finished epoch 49 --[Training] contrast loss: 0.2287  mse loss: 0.0443  back mse loss: 0.0569  recon loss: -27.8302  pred error: 0.0086  epoch time: 5.77
+Saving snapshot...
+Saved
+-----------------------------------------
+| AverageDiscountedReturn | -746        |
+| AverageReturn           | -1.68e+03   |
+| AvgModelEpochTime       | nan         |
+| EnvExecTime             | 0.208       |
+| Epochs                  | 49          |
+| Itr                     | 0           |
+| ItrTime                 | 281         |
+| MaxReturn               | -1.4e+03    |
+| MinReturn               | -1.83e+03   |
+| NumTrajs                | 10          |
+| PolicyExecTime          | 0.769       |
+| PredictionError         | 0.026110156 |
+| StdReturn               | 118         |
+| Time                    | 281         |
+| Time-EnvSampleProc      | 0.00384     |
+| Time-EnvSampling        | 1.8         |
+| Time-ModelFit           | 279         |
+| n_timesteps             | 2000        |
+-----------------------------------------
+
+ ---------------- Iteration 1 ----------------
+Obtaining samples from the environment using the policy...
+Processing environment samples...
+Training dynamics model for 50 epochs ...
+Training DynamicsModel - finished epoch 0 --[Training] contrast loss: 0.2175  mse loss: 2.5085  back mse loss: 2.7587  recon loss: 32.7357  pred error: 0.5011  epoch time: 12.01
+Training DynamicsModel - finished epoch 1 --[Training] contrast loss: 0.2032  mse loss: 1.0925  back mse loss: 1.0342  recon loss: -2.2520  pred error: 0.2044  epoch time: 12.35
+Training DynamicsModel - finished epoch 2 --[Training] contrast loss: 0.2010  mse loss: 0.7573  back mse loss: 0.6877  recon loss: -3.6018  pred error: 0.1420  epoch time: 11.79
+Training DynamicsModel - finished epoch 3 --[Training] contrast loss: 0.1993  mse loss: 0.5083  back mse loss: 0.5031  recon loss: -4.9014  pred error: 0.0969  epoch time: 11.57
+Training DynamicsModel - finished epoch 4 --[Training] contrast loss: 0.1971  mse loss: 0.3371  back mse loss: 0.3969  recon loss: -6.1219  pred error: 0.0639  epoch time: 12.36
+Training DynamicsModel - finished epoch 5 --[Training] contrast loss: 0.1932  mse loss: 0.2423  back mse loss: 0.3306  recon loss: -7.3925  pred error: 0.0459  epoch time: 11.77
+Training DynamicsModel - finished epoch 6 --[Training] contrast loss: 0.1870  mse loss: 0.1900  back mse loss: 0.2837  recon loss: -8.8270  pred error: 0.0363  epoch time: 11.79
+Training DynamicsModel - finished epoch 7 --[Training] contrast loss: 0.1842  mse loss: 0.1604  back mse loss: 0.2451  recon loss: -10.8492  pred error: 0.0310  epoch time: 11.70
+Training DynamicsModel - finished epoch 8 --[Training] contrast loss: 0.1820  mse loss: 0.1360  back mse loss: 0.2159  recon loss: -13.1543  pred error: 0.0260  epoch time: 11.99
+Training DynamicsModel - finished epoch 9 --[Training] contrast loss: 0.1817  mse loss: 0.1384  back mse loss: 0.1915  recon loss: -14.9060  pred error: 0.0266  epoch time: 11.76
+Training DynamicsModel - finished epoch 10 --[Training] contrast loss: 0.1779  mse loss: 0.1138  back mse loss: 0.1722  recon loss: -16.9802  pred error: 0.0221  epoch time: 12.32
+Training DynamicsModel - finished epoch 11 --[Training] contrast loss: 0.1777  mse loss: 0.1086  back mse loss: 0.1597  recon loss: -18.1691  pred error: 0.0214  epoch time: 12.70
+Training DynamicsModel - finished epoch 12 --[Training] contrast loss: 0.1754  mse loss: 0.1044  back mse loss: 0.1506  recon loss: -20.8128  pred error: 0.0204  epoch time: 11.31
+Training DynamicsModel - finished epoch 13 --[Training] contrast loss: 0.1750  mse loss: 0.1054  back mse loss: 0.1391  recon loss: -21.6606  pred error: 0.0207  epoch time: 12.34
+Training DynamicsModel - finished epoch 14 --[Training] contrast loss: 0.1739  mse loss: 0.1008  back mse loss: 0.1308  recon loss: -21.6050  pred error: 0.0196  epoch time: 11.37
+Training DynamicsModel - finished epoch 15 --[Training] contrast loss: 0.1684  mse loss: 0.0877  back mse loss: 0.1222  recon loss: -23.7522  pred error: 0.0171  epoch time: 11.55
+Training DynamicsModel - finished epoch 16 --[Training] contrast loss: 0.1660  mse loss: 0.0830  back mse loss: 0.1185  recon loss: -25.2022  pred error: 0.0163  epoch time: 12.12
+Training DynamicsModel - finished epoch 17 --[Training] contrast loss: 0.1649  mse loss: 0.0809  back mse loss: 0.1116  recon loss: -25.7583  pred error: 0.0159  epoch time: 11.94
+Training DynamicsModel - finished epoch 18 --[Training] contrast loss: 0.1644  mse loss: 0.0830  back mse loss: 0.1089  recon loss: -25.1631  pred error: 0.0164  epoch time: 11.40
+Training DynamicsModel - finished epoch 19 --[Training] contrast loss: 0.1632  mse loss: 0.0825  back mse loss: 0.1042  recon loss: -25.0360  pred error: 0.0163  epoch time: 11.55
+Training DynamicsModel - finished epoch 20 --[Training] contrast loss: 0.1627  mse loss: 0.0761  back mse loss: 0.0987  recon loss: -26.5131  pred error: 0.0150  epoch time: 12.10
+Training DynamicsModel - finished epoch 21 --[Training] contrast loss: 0.1611  mse loss: 0.0777  back mse loss: 0.0959  recon loss: -26.3245  pred error: 0.0154  epoch time: 11.50
+Training DynamicsModel - finished epoch 22 --[Training] contrast loss: 0.1552  mse loss: 0.0800  back mse loss: 0.0942  recon loss: -25.9037  pred error: 0.0159  epoch time: 11.91
+Training DynamicsModel - finished epoch 23 --[Training] contrast loss: 0.1489  mse loss: 0.0729  back mse loss: 0.0930  recon loss: -26.9064  pred error: 0.0145  epoch time: 11.22
+Training DynamicsModel - finished epoch 24 --[Training] contrast loss: 0.1469  mse loss: 0.0753  back mse loss: 0.0916  recon loss: -26.1460  pred error: 0.0150  epoch time: 11.32
+Training DynamicsModel - finished epoch 25 --[Training] contrast loss: 0.1468  mse loss: 0.0800  back mse loss: 0.0872  recon loss: -26.9530  pred error: 0.0157  epoch time: 11.60
+Training DynamicsModel - finished epoch 26 --[Training] contrast loss: 0.1437  mse loss: 0.0699  back mse loss: 0.0831  recon loss: -27.7090  pred error: 0.0138  epoch time: 11.88
+Training DynamicsModel - finished epoch 27 --[Training] contrast loss: 0.1393  mse loss: 0.0685  back mse loss: 0.0840  recon loss: -28.0395  pred error: 0.0136  epoch time: 11.08
+Training DynamicsModel - finished epoch 28 --[Training] contrast loss: 0.1398  mse loss: 0.0679  back mse loss: 0.0858  recon loss: -27.6849  pred error: 0.0135  epoch time: 11.66
+Training DynamicsModel - finished epoch 29 --[Training] contrast loss: 0.1376  mse loss: 0.0671  back mse loss: 0.0805  recon loss: -28.4284  pred error: 0.0133  epoch time: 12.05
+Training DynamicsModel - finished epoch 30 --[Training] contrast loss: 0.1356  mse loss: 0.0664  back mse loss: 0.0782  recon loss: -28.4152  pred error: 0.0132  epoch time: 11.28
+Training DynamicsModel - finished epoch 31 --[Training] contrast loss: 0.1341  mse loss: 0.0660  back mse loss: 0.0768  recon loss: -28.5289  pred error: 0.0131  epoch time: 11.55
+Training DynamicsModel - finished epoch 32 --[Training] contrast loss: 0.1335  mse loss: 0.0650  back mse loss: 0.0753  recon loss: -28.7596  pred error: 0.0129  epoch time: 12.04
+Training DynamicsModel - finished epoch 33 --[Training] contrast loss: 0.1317  mse loss: 0.0646  back mse loss: 0.0739  recon loss: -29.0455  pred error: 0.0128  epoch time: 11.28
+Training DynamicsModel - finished epoch 34 --[Training] contrast loss: 0.1303  mse loss: 0.0645  back mse loss: 0.0736  recon loss: -28.5748  pred error: 0.0128  epoch time: 11.53
+Training DynamicsModel - finished epoch 35 --[Training] contrast loss: 0.1303  mse loss: 0.0639  back mse loss: 0.0735  recon loss: -28.6658  pred error: 0.0127  epoch time: 11.44
+Training DynamicsModel - finished epoch 36 --[Training] contrast loss: 0.1293  mse loss: 0.0635  back mse loss: 0.0727  recon loss: -28.8378  pred error: 0.0126  epoch time: 11.39
+Training DynamicsModel - finished epoch 37 --[Training] contrast loss: 0.1279  mse loss: 0.0625  back mse loss: 0.0732  recon loss: -29.4449  pred error: 0.0124  epoch time: 11.41
+Training DynamicsModel - finished epoch 38 --[Training] contrast loss: 0.1270  mse loss: 0.0623  back mse loss: 0.0692  recon loss: -29.4048  pred error: 0.0124  epoch time: 11.32
+Training DynamicsModel - finished epoch 39 --[Training] contrast loss: 0.1261  mse loss: 0.0617  back mse loss: 0.0691  recon loss: -29.6293  pred error: 0.0123  epoch time: 11.47
+Training DynamicsModel - finished epoch 40 --[Training] contrast loss: 0.1258  mse loss: 0.0616  back mse loss: 0.0696  recon loss: -29.6390  pred error: 0.0122  epoch time: 11.55
+Training DynamicsModel - finished epoch 41 --[Training] contrast loss: 0.1249  mse loss: 0.0610  back mse loss: 0.0711  recon loss: -29.8761  pred error: 0.0121  epoch time: 11.31
+Training DynamicsModel - finished epoch 42 --[Training] contrast loss: 0.1246  mse loss: 0.0604  back mse loss: 0.0667  recon loss: -29.8316  pred error: 0.0121  epoch time: 11.42
+Training DynamicsModel - finished epoch 43 --[Training] contrast loss: 0.1222  mse loss: 0.0601  back mse loss: 0.0683  recon loss: -29.8427  pred error: 0.0120  epoch time: 11.35
+Training DynamicsModel - finished epoch 44 --[Training] contrast loss: 0.1226  mse loss: 0.0602  back mse loss: 0.0664  recon loss: -29.7256  pred error: 0.0120  epoch time: 11.97
+Training DynamicsModel - finished epoch 45 --[Training] contrast loss: 0.1213  mse loss: 0.0597  back mse loss: 0.0691  recon loss: -29.9618  pred error: 0.0119  epoch time: 11.76
+Training DynamicsModel - finished epoch 46 --[Training] contrast loss: 0.1207  mse loss: 0.0595  back mse loss: 0.0678  recon loss: -29.9845  pred error: 0.0118  epoch time: 11.67
+Training DynamicsModel - finished epoch 47 --[Training] contrast loss: 0.1201  mse loss: 0.0591  back mse loss: 0.0668  recon loss: -29.8257  pred error: 0.0117  epoch time: 11.42
+Training DynamicsModel - finished epoch 48 --[Training] contrast loss: 0.1202  mse loss: 0.0590  back mse loss: 0.0649  recon loss: -29.5387  pred error: 0.0117  epoch time: 11.25
+Training DynamicsModel - finished epoch 49 --[Training] contrast loss: 0.1190  mse loss: 0.0588  back mse loss: 0.0645  recon loss: -29.8262  pred error: 0.0117  epoch time: 11.52
+Saving snapshot...
+Saved
+-----------------------------------------
+| AverageDiscountedReturn | -539        |
+| AverageReturn           | -1.24e+03   |
+| AvgModelEpochTime       | nan         |
+| EnvExecTime             | 0.327       |
+| Epochs                  | 49          |
+| Itr                     | 1           |
+| ItrTime                 | 974         |
+| MaxReturn               | -1.03e+03   |
+| MinReturn               | -1.4e+03    |
+| NumTrajs                | 10          |
+| PolicyExecTime          | 386         |
+| PredictionError         | 0.035052184 |
+| StdReturn               | 139         |
+| Time                    | 2.81e+03    |
+| Time-EnvSampleProc      | 0.00301     |
+| Time-EnvSampling        | 388         |
+| Time-ModelFit           | 586         |
+| n_timesteps             | 4000        |
+-----------------------------------------
+
+ ---------------- Iteration 2 ----------------
+Obtaining samples from the environment using the policy...
+Processing environment samples...
+Training dynamics model for 50 epochs ...
+Training DynamicsModel - finished epoch 0 --[Training] contrast loss: 0.1575  mse loss: 0.4876  back mse loss: 0.1706  recon loss: 3.6382  pred error: 0.0983  epoch time: 17.95
+Training DynamicsModel - finished epoch 1 --[Training] contrast loss: 0.1351  mse loss: 0.1356  back mse loss: 0.1025  recon loss: -14.0502  pred error: 0.0256  epoch time: 17.44
+Training DynamicsModel - finished epoch 2 --[Training] contrast loss: 0.1282  mse loss: 0.1117  back mse loss: 0.0975  recon loss: -16.7969  pred error: 0.0215  epoch time: 18.09
+Training DynamicsModel - finished epoch 3 --[Training] contrast loss: 0.1231  mse loss: 0.0999  back mse loss: 0.0947  recon loss: -18.4257  pred error: 0.0194  epoch time: 17.40
+Training DynamicsModel - finished epoch 4 --[Training] contrast loss: 0.1199  mse loss: 0.0944  back mse loss: 0.0925  recon loss: -18.8310  pred error: 0.0185  epoch time: 17.92
+Training DynamicsModel - finished epoch 5 --[Training] contrast loss: 0.1191  mse loss: 0.0907  back mse loss: 0.0919  recon loss: -20.0257  pred error: 0.0178  epoch time: 17.38
+Training DynamicsModel - finished epoch 6 --[Training] contrast loss: 0.1170  mse loss: 0.0873  back mse loss: 0.0910  recon loss: -20.7248  pred error: 0.0172  epoch time: 17.69
+Training DynamicsModel - finished epoch 7 --[Training] contrast loss: 0.1158  mse loss: 0.0857  back mse loss: 0.0906  recon loss: -21.6158  pred error: 0.0169  epoch time: 17.58
+Training DynamicsModel - finished epoch 8 --[Training] contrast loss: 0.1144  mse loss: 0.0830  back mse loss: 0.0896  recon loss: -22.6348  pred error: 0.0164  epoch time: 18.07
+Training DynamicsModel - finished epoch 9 --[Training] contrast loss: 0.1116  mse loss: 0.0813  back mse loss: 0.0892  recon loss: -23.2005  pred error: 0.0161  epoch time: 17.91
+Training DynamicsModel - finished epoch 10 --[Training] contrast loss: 0.1115  mse loss: 0.0803  back mse loss: 0.0889  recon loss: -23.8683  pred error: 0.0159  epoch time: 18.23
+Training DynamicsModel - finished epoch 11 --[Training] contrast loss: 0.1100  mse loss: 0.0788  back mse loss: 0.0878  recon loss: -24.6155  pred error: 0.0156  epoch time: 17.98
+Training DynamicsModel - finished epoch 12 --[Training] contrast loss: 0.1084  mse loss: 0.0778  back mse loss: 0.0880  recon loss: -25.1583  pred error: 0.0154  epoch time: 17.82
+Training DynamicsModel - finished epoch 13 --[Training] contrast loss: 0.1075  mse loss: 0.0768  back mse loss: 0.0876  recon loss: -25.6481  pred error: 0.0152  epoch time: 18.69
+Training DynamicsModel - finished epoch 14 --[Training] contrast loss: 0.1059  mse loss: 0.0758  back mse loss: 0.0884  recon loss: -26.1130  pred error: 0.0150  epoch time: 17.79
+Training DynamicsModel - finished epoch 15 --[Training] contrast loss: 0.1051  mse loss: 0.0752  back mse loss: 0.0873  recon loss: -26.3623  pred error: 0.0149  epoch time: 18.25
+Training DynamicsModel - finished epoch 16 --[Training] contrast loss: 0.1044  mse loss: 0.0747  back mse loss: 0.0869  recon loss: -26.5002  pred error: 0.0149  epoch time: 17.63
+Training DynamicsModel - finished epoch 17 --[Training] contrast loss: 0.1035  mse loss: 0.0741  back mse loss: 0.0873  recon loss: -26.8549  pred error: 0.0148  epoch time: 18.14
+Training DynamicsModel - finished epoch 18 --[Training] contrast loss: 0.1030  mse loss: 0.0732  back mse loss: 0.0862  recon loss: -27.0123  pred error: 0.0146  epoch time: 18.05
+Training DynamicsModel - finished epoch 19 --[Training] contrast loss: 0.1023  mse loss: 0.0735  back mse loss: 0.0864  recon loss: -27.2309  pred error: 0.0146  epoch time: 17.58
+Training DynamicsModel - finished epoch 20 --[Training] contrast loss: 0.1010  mse loss: 0.0725  back mse loss: 0.0859  recon loss: -27.4826  pred error: 0.0144  epoch time: 18.65
+Training DynamicsModel - finished epoch 21 --[Training] contrast loss: 0.1010  mse loss: 0.0722  back mse loss: 0.0861  recon loss: -27.7107  pred error: 0.0144  epoch time: 17.87
+Training DynamicsModel - finished epoch 22 --[Training] contrast loss: 0.1004  mse loss: 0.0718  back mse loss: 0.0860  recon loss: -28.0003  pred error: 0.0143  epoch time: 18.21
+Training DynamicsModel - finished epoch 23 --[Training] contrast loss: 0.1003  mse loss: 0.0722  back mse loss: 0.0862  recon loss: -28.2704  pred error: 0.0144  epoch time: 17.76
+Training DynamicsModel - finished epoch 24 --[Training] contrast loss: 0.0989  mse loss: 0.0714  back mse loss: 0.0859  recon loss: -28.5886  pred error: 0.0142  epoch time: 18.46
+Training DynamicsModel - finished epoch 25 --[Training] contrast loss: 0.0983  mse loss: 0.0715  back mse loss: 0.0853  recon loss: -28.9752  pred error: 0.0142  epoch time: 17.59
+Training DynamicsModel - finished epoch 26 --[Training] contrast loss: 0.0980  mse loss: 0.0711  back mse loss: 0.0858  recon loss: -29.0874  pred error: 0.0142  epoch time: 18.03
+Training DynamicsModel - finished epoch 27 --[Training] contrast loss: 0.0977  mse loss: 0.0708  back mse loss: 0.0858  recon loss: -29.2428  pred error: 0.0141  epoch time: 17.57
+Training DynamicsModel - finished epoch 28 --[Training] contrast loss: 0.0966  mse loss: 0.0706  back mse loss: 0.0860  recon loss: -29.3497  pred error: 0.0141  epoch time: 17.97
+Training DynamicsModel - finished epoch 29 --[Training] contrast loss: 0.0966  mse loss: 0.0706  back mse loss: 0.0860  recon loss: -29.3822  pred error: 0.0141  epoch time: 17.89
+Training DynamicsModel - finished epoch 30 --[Training] contrast loss: 0.0964  mse loss: 0.0702  back mse loss: 0.0861  recon loss: -29.5379  pred error: 0.0140  epoch time: 17.69
+Training DynamicsModel - finished epoch 31 --[Training] contrast loss: 0.0956  mse loss: 0.0702  back mse loss: 0.0863  recon loss: -29.3830  pred error: 0.0140  epoch time: 17.50
+Training DynamicsModel - finished epoch 32 --[Training] contrast loss: 0.0953  mse loss: 0.0701  back mse loss: 0.0865  recon loss: -29.5099  pred error: 0.0140  epoch time: 17.82
+Training DynamicsModel - finished epoch 33 --[Training] contrast loss: 0.0948  mse loss: 0.0700  back mse loss: 0.0876  recon loss: -29.5985  pred error: 0.0140  epoch time: 17.66
+Training DynamicsModel - finished epoch 34 --[Training] contrast loss: 0.0947  mse loss: 0.0700  back mse loss: 0.0872  recon loss: -29.5482  pred error: 0.0140  epoch time: 17.32
+Training DynamicsModel - finished epoch 35 --[Training] contrast loss: 0.0947  mse loss: 0.0698  back mse loss: 0.0873  recon loss: -29.6643  pred error: 0.0139  epoch time: 17.82
+Training DynamicsModel - finished epoch 36 --[Training] contrast loss: 0.0932  mse loss: 0.0694  back mse loss: 0.0874  recon loss: -29.9876  pred error: 0.0139  epoch time: 18.10
+Training DynamicsModel - finished epoch 37 --[Training] contrast loss: 0.0932  mse loss: 0.0692  back mse loss: 0.0879  recon loss: -29.7752  pred error: 0.0138  epoch time: 17.54
+Training DynamicsModel - finished epoch 38 --[Training] contrast loss: 0.0933  mse loss: 0.0694  back mse loss: 0.0881  recon loss: -29.8561  pred error: 0.0138  epoch time: 17.14
+Training DynamicsModel - finished epoch 39 --[Training] contrast loss: 0.0926  mse loss: 0.0691  back mse loss: 0.0882  recon loss: -30.1254  pred error: 0.0138  epoch time: 16.95
+Training DynamicsModel - finished epoch 40 --[Training] contrast loss: 0.0917  mse loss: 0.0689  back mse loss: 0.0884  recon loss: -30.1401  pred error: 0.0138  epoch time: 17.45
+Training DynamicsModel - finished epoch 41 --[Training] contrast loss: 0.0921  mse loss: 0.0689  back mse loss: 0.0890  recon loss: -30.1534  pred error: 0.0137  epoch time: 17.02
+Training DynamicsModel - finished epoch 42 --[Training] contrast loss: 0.0916  mse loss: 0.0688  back mse loss: 0.0891  recon loss: -29.8880  pred error: 0.0137  epoch time: 17.28
+Training DynamicsModel - finished epoch 43 --[Training] contrast loss: 0.0914  mse loss: 0.0684  back mse loss: 0.0892  recon loss: -30.3269  pred error: 0.0137  epoch time: 17.21
+Training DynamicsModel - finished epoch 44 --[Training] contrast loss: 0.0907  mse loss: 0.0685  back mse loss: 0.0901  recon loss: -30.3028  pred error: 0.0137  epoch time: 17.11
+Training DynamicsModel - finished epoch 45 --[Training] contrast loss: 0.0911  mse loss: 0.0686  back mse loss: 0.0902  recon loss: -30.2859  pred error: 0.0137  epoch time: 17.31
+Training DynamicsModel - finished epoch 46 --[Training] contrast loss: 0.0908  mse loss: 0.0681  back mse loss: 0.0899  recon loss: -30.3480  pred error: 0.0136  epoch time: 17.16
+Training DynamicsModel - finished epoch 47 --[Training] contrast loss: 0.0903  mse loss: 0.0686  back mse loss: 0.0905  recon loss: -30.4283  pred error: 0.0137  epoch time: 17.42
+Training DynamicsModel - finished epoch 48 --[Training] contrast loss: 0.0897  mse loss: 0.0681  back mse loss: 0.0904  recon loss: -30.5744  pred error: 0.0136  epoch time: 17.42
+Training DynamicsModel - finished epoch 49 --[Training] contrast loss: 0.0898  mse loss: 0.0680  back mse loss: 0.0904  recon loss: -30.5027  pred error: 0.0136  epoch time: 17.40
+Saving snapshot...
+Saved
+-----------------------------------------
+| AverageDiscountedReturn | -278        |
+| AverageReturn           | -363        |
+| AvgModelEpochTime       | nan         |
+| EnvExecTime             | 0.312       |
+| Epochs                  | 49          |
+| Itr                     | 2           |
+| ItrTime                 | 1.27e+03    |
+| MaxReturn               | -217        |
+| MinReturn               | -538        |
+| NumTrajs                | 10          |
+| PolicyExecTime          | 383         |
+| PredictionError         | 0.016728858 |
+| StdReturn               | 106         |
+| Time                    | 5.59e+03    |
+| Time-EnvSampleProc      | 0.00516     |
+| Time-EnvSampling        | 384         |
+| Time-ModelFit           | 889         |
+| n_timesteps             | 6000        |
+-----------------------------------------
+
+ ---------------- Iteration 3 ----------------
+Obtaining samples from the environment using the policy...
+Processing environment samples...
+Training dynamics model for 50 epochs ...
+Training DynamicsModel - finished epoch 0 --[Training] contrast loss: 0.1178  mse loss: 1.2813  back mse loss: 1.7715  recon loss: 6.7167  pred error: 0.0467  epoch time: 25.28
+Training DynamicsModel - finished epoch 1 --[Training] contrast loss: 0.1106  mse loss: 0.3943  back mse loss: 0.7266  recon loss: -102.1380  pred error: 0.0136  epoch time: 24.12
+Training DynamicsModel - finished epoch 2 --[Training] contrast loss: 0.1072  mse loss: 0.3018  back mse loss: 0.5172  recon loss: -107.5214  pred error: 0.0095  epoch time: 24.75
+Training DynamicsModel - finished epoch 3 --[Training] contrast loss: 0.1064  mse loss: 0.3283  back mse loss: 0.5110  recon loss: -99.1891  pred error: 0.0097  epoch time: 24.51
+Training DynamicsModel - finished epoch 4 --[Training] contrast loss: 0.1050  mse loss: 0.2198  back mse loss: 0.4012  recon loss: -115.1722  pred error: 0.0062  epoch time: 24.21
+Training DynamicsModel - finished epoch 5 --[Training] contrast loss: 0.1059  mse loss: 0.1871  back mse loss: 0.3629  recon loss: -119.5142  pred error: 0.0052  epoch time: 24.65
+Training DynamicsModel - finished epoch 6 --[Training] contrast loss: 0.1073  mse loss: 0.1800  back mse loss: 0.3359  recon loss: -121.4585  pred error: 0.0051  epoch time: 24.12
+Training DynamicsModel - finished epoch 7 --[Training] contrast loss: 0.1064  mse loss: 0.1496  back mse loss: 0.7331  recon loss: -125.7154  pred error: 0.0041  epoch time: 24.50
+Training DynamicsModel - finished epoch 8 --[Training] contrast loss: 0.1067  mse loss: 0.1477  back mse loss: 0.3483  recon loss: -126.5123  pred error: 0.0041  epoch time: 23.95
+Training DynamicsModel - finished epoch 9 --[Training] contrast loss: 0.1063  mse loss: 0.1281  back mse loss: 0.3746  recon loss: -130.2410  pred error: 0.0036  epoch time: 24.57
+Training DynamicsModel - finished epoch 10 --[Training] contrast loss: 0.1062  mse loss: 0.1287  back mse loss: 0.3061  recon loss: -131.4821  pred error: 0.0036  epoch time: 24.09
+Training DynamicsModel - finished epoch 11 --[Training] contrast loss: 0.1066  mse loss: 0.1177  back mse loss: 0.2843  recon loss: -131.6486  pred error: 0.0036  epoch time: 24.38
+Training DynamicsModel - finished epoch 12 --[Training] contrast loss: 0.1058  mse loss: 0.1216  back mse loss: 0.2626  recon loss: -130.9780  pred error: 0.0038  epoch time: 24.36
+Training DynamicsModel - finished epoch 13 --[Training] contrast loss: 0.1054  mse loss: 0.1030  back mse loss: 0.2360  recon loss: -137.3125  pred error: 0.0032  epoch time: 24.20
+Training DynamicsModel - finished epoch 14 --[Training] contrast loss: 0.1055  mse loss: 0.1013  back mse loss: 0.2466  recon loss: -139.1385  pred error: 0.0031  epoch time: 24.46
+Training DynamicsModel - finished epoch 15 --[Training] contrast loss: 0.1058  mse loss: 0.1019  back mse loss: 0.2684  recon loss: -140.1742  pred error: 0.0030  epoch time: 24.46
+Training DynamicsModel - finished epoch 16 --[Training] contrast loss: 0.1060  mse loss: 0.0989  back mse loss: 0.2543  recon loss: -141.4591  pred error: 0.0031  epoch time: 24.67
+Training DynamicsModel - finished epoch 17 --[Training] contrast loss: 0.1057  mse loss: 0.1035  back mse loss: 0.2356  recon loss: -140.9975  pred error: 0.0031  epoch time: 25.32
+Training DynamicsModel - finished epoch 18 --[Training] contrast loss: 0.1061  mse loss: 0.1346  back mse loss: 0.2365  recon loss: -138.0866  pred error: 0.0044  epoch time: 24.24
+Training DynamicsModel - finished epoch 19 --[Training] contrast loss: 0.1061  mse loss: 0.1000  back mse loss: 0.2272  recon loss: -145.4173  pred error: 0.0031  epoch time: 23.66
+Training DynamicsModel - finished epoch 20 --[Training] contrast loss: 0.1048  mse loss: 0.0958  back mse loss: 0.1960  recon loss: -146.6291  pred error: 0.0029  epoch time: 23.40
+Training DynamicsModel - finished epoch 21 --[Training] contrast loss: 0.1046  mse loss: 0.0984  back mse loss: 0.2603  recon loss: -145.4645  pred error: 0.0031  epoch time: 24.35
+Training DynamicsModel - finished epoch 22 --[Training] contrast loss: 0.1056  mse loss: 0.1132  back mse loss: 0.2088  recon loss: -142.6901  pred error: 0.0034  epoch time: 23.96
+Training DynamicsModel - finished epoch 23 --[Training] contrast loss: 0.1047  mse loss: 0.1002  back mse loss: 0.2125  recon loss: -147.5537  pred error: 0.0032  epoch time: 24.03
+Training DynamicsModel - finished epoch 24 --[Training] contrast loss: 0.1042  mse loss: 0.0997  back mse loss: 0.1877  recon loss: -149.9667  pred error: 0.0030  epoch time: 25.20
+Training DynamicsModel - finished epoch 25 --[Training] contrast loss: 0.1047  mse loss: 0.0908  back mse loss: 0.1921  recon loss: -150.5222  pred error: 0.0028  epoch time: 24.05
+Training DynamicsModel - finished epoch 26 --[Training] contrast loss: 0.1041  mse loss: 0.0955  back mse loss: 0.1817  recon loss: -151.3731  pred error: 0.0029  epoch time: 24.26
+Training DynamicsModel - finished epoch 27 --[Training] contrast loss: 0.1042  mse loss: 0.0900  back mse loss: 0.1686  recon loss: -154.5418  pred error: 0.0028  epoch time: 24.03
+Training DynamicsModel - finished epoch 28 --[Training] contrast loss: 0.1035  mse loss: 0.0955  back mse loss: 0.1831  recon loss: -153.8586  pred error: 0.0029  epoch time: 24.11
+Training DynamicsModel - finished epoch 29 --[Training] contrast loss: 0.1043  mse loss: 0.0907  back mse loss: 0.1843  recon loss: -155.8952  pred error: 0.0027  epoch time: 24.50
+Training DynamicsModel - finished epoch 30 --[Training] contrast loss: 0.1045  mse loss: 0.0986  back mse loss: 0.1916  recon loss: -153.0859  pred error: 0.0030  epoch time: 24.67
+Training DynamicsModel - finished epoch 31 --[Training] contrast loss: 0.1037  mse loss: 0.0907  back mse loss: 0.1661  recon loss: -158.1512  pred error: 0.0026  epoch time: 25.18
+Training DynamicsModel - finished epoch 32 --[Training] contrast loss: 0.1033  mse loss: 0.0865  back mse loss: 0.1733  recon loss: -159.7782  pred error: 0.0026  epoch time: 23.97
+Training DynamicsModel - finished epoch 33 --[Training] contrast loss: 0.1030  mse loss: 0.0841  back mse loss: 0.1779  recon loss: -160.8388  pred error: 0.0027  epoch time: 23.47
+Training DynamicsModel - finished epoch 34 --[Training] contrast loss: 0.1032  mse loss: 0.0846  back mse loss: 0.1648  recon loss: -157.1658  pred error: 0.0027  epoch time: 23.79
+Training DynamicsModel - finished epoch 35 --[Training] contrast loss: 0.1031  mse loss: 0.0829  back mse loss: 0.1823  recon loss: -160.7659  pred error: 0.0025  epoch time: 23.76
+Training DynamicsModel - finished epoch 36 --[Training] contrast loss: 0.1025  mse loss: 0.0817  back mse loss: 0.1739  recon loss: -162.2593  pred error: 0.0025  epoch time: 23.85
+Training DynamicsModel - finished epoch 37 --[Training] contrast loss: 0.1026  mse loss: 0.0911  back mse loss: 0.1683  recon loss: -160.3076  pred error: 0.0029  epoch time: 23.80
+Training DynamicsModel - finished epoch 38 --[Training] contrast loss: 0.1023  mse loss: 0.0798  back mse loss: 0.1535  recon loss: -163.0965  pred error: 0.0025  epoch time: 23.31
+Training DynamicsModel - finished epoch 39 --[Training] contrast loss: 0.1028  mse loss: 0.0832  back mse loss: 0.1440  recon loss: -161.6859  pred error: 0.0026  epoch time: 23.98
+Training DynamicsModel - finished epoch 40 --[Training] contrast loss: 0.1023  mse loss: 0.0789  back mse loss: 0.1779  recon loss: -165.3629  pred error: 0.0025  epoch time: 23.29
+Training DynamicsModel - finished epoch 41 --[Training] contrast loss: 0.1026  mse loss: 0.0725  back mse loss: 0.1812  recon loss: -170.3560  pred error: 0.0023  epoch time: 23.93
+Training DynamicsModel - finished epoch 42 --[Training] contrast loss: 0.1016  mse loss: 0.0774  back mse loss: 0.1851  recon loss: -164.0247  pred error: 0.0025  epoch time: 22.74
+Training DynamicsModel - finished epoch 43 --[Training] contrast loss: 0.1021  mse loss: 0.0796  back mse loss: 0.1782  recon loss: -166.4727  pred error: 0.0026  epoch time: 23.05
+Training DynamicsModel - finished epoch 44 --[Training] contrast loss: 0.1020  mse loss: 0.0756  back mse loss: 0.2048  recon loss: -169.9330  pred error: 0.0024  epoch time: 23.40
+Training DynamicsModel - finished epoch 45 --[Training] contrast loss: 0.1017  mse loss: 0.0747  back mse loss: 0.1976  recon loss: -171.0577  pred error: 0.0023  epoch time: 22.74
+Training DynamicsModel - finished epoch 46 --[Training] contrast loss: 0.1016  mse loss: 0.0742  back mse loss: 0.2347  recon loss: -170.2950  pred error: 0.0023  epoch time: 23.71
+Training DynamicsModel - finished epoch 47 --[Training] contrast loss: 0.1016  mse loss: 0.0736  back mse loss: 0.1965  recon loss: -172.7554  pred error: 0.0024  epoch time: 24.03
+Training DynamicsModel - finished epoch 48 --[Training] contrast loss: 0.1007  mse loss: 0.0772  back mse loss: 0.1681  recon loss: -167.2798  pred error: 0.0025  epoch time: 23.08
+Training DynamicsModel - finished epoch 49 --[Training] contrast loss: 0.1013  mse loss: 0.0745  back mse loss: 0.1664  recon loss: -171.0167  pred error: 0.0024  epoch time: 24.21
+Saving snapshot...
+Saved
+------------------------------------------
+| AverageDiscountedReturn | -297         |
+| AverageReturn           | -470         |
+| AvgModelEpochTime       | nan          |
+| EnvExecTime             | 0.281        |
+| Epochs                  | 49           |
+| Itr                     | 3            |
+| ItrTime                 | 1.6e+03      |
+| MaxReturn               | -247         |
+| MinReturn               | -781         |
+| NumTrajs                | 10           |
+| PolicyExecTime          | 390          |
+| PredictionError         | 0.0044462145 |
+| StdReturn               | 230          |
+| Time                    | 8.7e+03      |
+| Time-EnvSampleProc      | 0.00297      |
+| Time-EnvSampling        | 391          |
+| Time-ModelFit           | 1.21e+03     |
+| n_timesteps             | 8000         |
+------------------------------------------
+
+ ---------------- Iteration 4 ----------------
+Obtaining samples from the environment using the policy...
+Processing environment samples...
+Training dynamics model for 50 epochs ...
+Training DynamicsModel - finished epoch 0 --[Training] contrast loss: 0.0923  mse loss: 0.1203  back mse loss: 0.3521  recon loss: -156.2684  pred error: 0.0054  epoch time: 30.57
+Training DynamicsModel - finished epoch 1 --[Training] contrast loss: 0.0910  mse loss: 0.0868  back mse loss: 0.2228  recon loss: -174.1719  pred error: 0.0029  epoch time: 31.41
+Training DynamicsModel - finished epoch 2 --[Training] contrast loss: 0.0908  mse loss: 0.0830  back mse loss: 0.2511  recon loss: -167.9295  pred error: 0.0026  epoch time: 30.88
+Training DynamicsModel - finished epoch 3 --[Training] contrast loss: 0.0906  mse loss: 0.0773  back mse loss: 0.2374  recon loss: -174.5347  pred error: 0.0025  epoch time: 30.66
+Training DynamicsModel - finished epoch 4 --[Training] contrast loss: 0.0901  mse loss: 0.0747  back mse loss: 0.2432  recon loss: -175.3738  pred error: 0.0023  epoch time: 32.48
+Training DynamicsModel - finished epoch 5 --[Training] contrast loss: 0.0899  mse loss: 0.0726  back mse loss: 0.1729  recon loss: -174.1651  pred error: 0.0022  epoch time: 30.35
+Training DynamicsModel - finished epoch 6 --[Training] contrast loss: 0.0897  mse loss: 0.0734  back mse loss: 0.1504  recon loss: -172.0952  pred error: 0.0023  epoch time: 30.43
+Training DynamicsModel - finished epoch 7 --[Training] contrast loss: 0.0891  mse loss: 0.0719  back mse loss: 0.1619  recon loss: -176.8321  pred error: 0.0022  epoch time: 31.03
+Training DynamicsModel - finished epoch 8 --[Training] contrast loss: 0.0891  mse loss: 0.0728  back mse loss: 0.1585  recon loss: -174.9945  pred error: 0.0022  epoch time: 31.33
+Training DynamicsModel - finished epoch 9 --[Training] contrast loss: 0.0889  mse loss: 0.0711  back mse loss: 0.1753  recon loss: -176.0485  pred error: 0.0022  epoch time: 30.20
+Training DynamicsModel - finished epoch 10 --[Training] contrast loss: 0.0889  mse loss: 0.0744  back mse loss: 0.1642  recon loss: -176.7814  pred error: 0.0023  epoch time: 30.62
+Training DynamicsModel - finished epoch 11 --[Training] contrast loss: 0.0886  mse loss: 0.0721  back mse loss: 0.1751  recon loss: -177.1666  pred error: 0.0023  epoch time: 29.47
+Training DynamicsModel - finished epoch 12 --[Training] contrast loss: 0.0885  mse loss: 0.0687  back mse loss: 0.1596  recon loss: -179.6445  pred error: 0.0021  epoch time: 29.30
+Training DynamicsModel - finished epoch 13 --[Training] contrast loss: 0.0889  mse loss: 0.0683  back mse loss: 0.1753  recon loss: -177.8504  pred error: 0.0022  epoch time: 29.40
+Training DynamicsModel - finished epoch 14 --[Training] contrast loss: 0.0888  mse loss: 0.0694  back mse loss: 0.1756  recon loss: -178.8230  pred error: 0.0022  epoch time: 30.59
+Training DynamicsModel - finished epoch 15 --[Training] contrast loss: 0.0883  mse loss: 0.0679  back mse loss: 0.1651  recon loss: -179.8712  pred error: 0.0021  epoch time: 29.35
+Training DynamicsModel - finished epoch 16 --[Training] contrast loss: 0.0883  mse loss: 0.0666  back mse loss: 0.1697  recon loss: -177.3710  pred error: 0.0021  epoch time: 30.46
+Training DynamicsModel - finished epoch 17 --[Training] contrast loss: 0.0879  mse loss: 0.0651  back mse loss: 0.1583  recon loss: -183.0416  pred error: 0.0020  epoch time: 29.77
+Training DynamicsModel - finished epoch 18 --[Training] contrast loss: 0.0880  mse loss: 0.0648  back mse loss: 0.1664  recon loss: -182.8979  pred error: 0.0021  epoch time: 30.38
+Training DynamicsModel - finished epoch 19 --[Training] contrast loss: 0.0879  mse loss: 0.0637  back mse loss: 0.1562  recon loss: -183.9321  pred error: 0.0020  epoch time: 30.34
+Training DynamicsModel - finished epoch 20 --[Training] contrast loss: 0.0879  mse loss: 0.0693  back mse loss: 0.1701  recon loss: -173.3992  pred error: 0.0022  epoch time: 29.78
+Training DynamicsModel - finished epoch 21 --[Training] contrast loss: 0.0874  mse loss: 0.0663  back mse loss: 0.2032  recon loss: -179.2235  pred error: 0.0021  epoch time: 30.72
+Training DynamicsModel - finished epoch 22 --[Training] contrast loss: 0.0870  mse loss: 0.1230  back mse loss: 0.1771  recon loss: -119.7707  pred error: 0.0044  epoch time: 29.74
+Training DynamicsModel - finished epoch 23 --[Training] contrast loss: 0.0863  mse loss: 0.0912  back mse loss: 0.1595  recon loss: -182.6625  pred error: 0.0031  epoch time: 29.77
+Training DynamicsModel - finished epoch 24 --[Training] contrast loss: 0.0858  mse loss: 0.0726  back mse loss: 0.1643  recon loss: -185.5142  pred error: 0.0023  epoch time: 30.36
+Training DynamicsModel - finished epoch 25 --[Training] contrast loss: 0.0859  mse loss: 0.0687  back mse loss: 0.1494  recon loss: -185.7102  pred error: 0.0022  epoch time: 30.93
+Training DynamicsModel - finished epoch 26 --[Training] contrast loss: 0.0854  mse loss: 0.0692  back mse loss: 0.1538  recon loss: -188.1339  pred error: 0.0021  epoch time: 30.35
+Training DynamicsModel - finished epoch 27 --[Training] contrast loss: 0.0854  mse loss: 0.0660  back mse loss: 0.1439  recon loss: -189.1769  pred error: 0.0020  epoch time: 30.11
+Training DynamicsModel - finished epoch 28 --[Training] contrast loss: 0.0851  mse loss: 0.0658  back mse loss: 0.1682  recon loss: -188.4297  pred error: 0.0020  epoch time: 30.86
+Training DynamicsModel - finished epoch 29 --[Training] contrast loss: 0.0852  mse loss: 0.0640  back mse loss: 0.1805  recon loss: -189.1495  pred error: 0.0020  epoch time: 29.20
+Training DynamicsModel - finished epoch 30 --[Training] contrast loss: 0.0850  mse loss: 0.0621  back mse loss: 0.1934  recon loss: -190.4371  pred error: 0.0019  epoch time: 29.78
+Training DynamicsModel - finished epoch 31 --[Training] contrast loss: 0.0849  mse loss: 0.0609  back mse loss: 0.3289  recon loss: -191.9742  pred error: 0.0019  epoch time: 29.22
+Training DynamicsModel - finished epoch 32 --[Training] contrast loss: 0.0846  mse loss: 0.0650  back mse loss: 0.1727  recon loss: -190.4646  pred error: 0.0020  epoch time: 28.89
+Training DynamicsModel - finished epoch 33 --[Training] contrast loss: 0.0848  mse loss: 0.2600  back mse loss: 0.1664  recon loss: 69.2557  pred error: 0.0089  epoch time: 30.02
+Training DynamicsModel - finished epoch 34 --[Training] contrast loss: 0.0841  mse loss: 0.0811  back mse loss: 0.1583  recon loss: -183.5951  pred error: 0.0031  epoch time: 28.79
+Training DynamicsModel - finished epoch 35 --[Training] contrast loss: 0.0847  mse loss: 0.0706  back mse loss: 0.1487  recon loss: -187.9611  pred error: 0.0025  epoch time: 28.47
+Training DynamicsModel - finished epoch 36 --[Training] contrast loss: 0.0845  mse loss: 0.0682  back mse loss: 0.1455  recon loss: -189.1026  pred error: 0.0023  epoch time: 29.11
+Training DynamicsModel - finished epoch 37 --[Training] contrast loss: 0.0846  mse loss: 0.0729  back mse loss: 0.1517  recon loss: -190.1464  pred error: 0.0023  epoch time: 28.16
+Training DynamicsModel - finished epoch 38 --[Training] contrast loss: 0.0840  mse loss: 0.0694  back mse loss: 0.1606  recon loss: -191.0295  pred error: 0.0022  epoch time: 28.76
+Training DynamicsModel - finished epoch 39 --[Training] contrast loss: 0.0840  mse loss: 0.0686  back mse loss: 0.1440  recon loss: -192.3638  pred error: 0.0021  epoch time: 28.90
+Training DynamicsModel - finished epoch 40 --[Training] contrast loss: 0.0836  mse loss: 0.0675  back mse loss: 0.1486  recon loss: -192.6985  pred error: 0.0021  epoch time: 28.61
+Training DynamicsModel - finished epoch 41 --[Training] contrast loss: 0.0838  mse loss: 0.0647  back mse loss: 0.1504  recon loss: -194.0291  pred error: 0.0020  epoch time: 29.06
+Training DynamicsModel - finished epoch 42 --[Training] contrast loss: 0.0833  mse loss: 0.0673  back mse loss: 0.1646  recon loss: -193.3948  pred error: 0.0020  epoch time: 28.66
+Training DynamicsModel - finished epoch 43 --[Training] contrast loss: 0.0841  mse loss: 0.0694  back mse loss: 0.1507  recon loss: -194.2327  pred error: 0.0021  epoch time: 28.69
+Training DynamicsModel - finished epoch 44 --[Training] contrast loss: 0.0837  mse loss: 0.0666  back mse loss: 0.1530  recon loss: -193.1386  pred error: 0.0020  epoch time: 29.47
+Training DynamicsModel - finished epoch 45 --[Training] contrast loss: 0.0835  mse loss: 0.0636  back mse loss: 0.1547  recon loss: -194.8648  pred error: 0.0020  epoch time: 28.55
+Training DynamicsModel - finished epoch 46 --[Training] contrast loss: 0.0833  mse loss: 0.0630  back mse loss: 0.1502  recon loss: -194.7280  pred error: 0.0019  epoch time: 29.18
+Training DynamicsModel - finished epoch 47 --[Training] contrast loss: 0.0833  mse loss: 0.0627  back mse loss: 0.1492  recon loss: -194.9142  pred error: 0.0019  epoch time: 29.33
+Training DynamicsModel - finished epoch 48 --[Training] contrast loss: 0.0832  mse loss: 0.0625  back mse loss: 0.1464  recon loss: -195.0438  pred error: 0.0019  epoch time: 29.25
+Training DynamicsModel - finished epoch 49 --[Training] contrast loss: 0.0832  mse loss: 0.0631  back mse loss: 0.1547  recon loss: -194.7842  pred error: 0.0019  epoch time: 29.38
+Saving snapshot...
+Saved
+------------------------------------------
+| AverageDiscountedReturn | -293         |
+| AverageReturn           | -381         |
+| AvgModelEpochTime       | nan          |
+| EnvExecTime             | 0.325        |
+| Epochs                  | 49           |
+| Itr                     | 4            |
+| ItrTime                 | 1.89e+03     |
+| MaxReturn               | -213         |
+| MinReturn               | -494         |
+| NumTrajs                | 10           |
+| PolicyExecTime          | 389          |
+| PredictionError         | 0.0024304185 |
+| StdReturn               | 73.8         |
+| Time                    | 1.21e+04     |
+| Time-EnvSampleProc      | 0.00347      |
+| Time-EnvSampling        | 391          |
+| Time-ModelFit           | 1.5e+03      |
+| n_timesteps             | 10000        |
+------------------------------------------
+
+ ---------------- Iteration 5 ----------------
+Obtaining samples from the environment using the policy...
+Processing environment samples...
+Training dynamics model for 50 epochs ...
+Training DynamicsModel - finished epoch 0 --[Training] contrast loss: 0.0784  mse loss: 0.1277  back mse loss: 0.3588  recon loss: -171.9588  pred error: 0.0055  epoch time: 36.37
+Training DynamicsModel - finished epoch 1 --[Training] contrast loss: 0.0768  mse loss: 0.0829  back mse loss: 0.2268  recon loss: -190.0712  pred error: 0.0026  epoch time: 37.25
+Training DynamicsModel - finished epoch 2 --[Training] contrast loss: 0.0768  mse loss: 0.0769  back mse loss: 0.2729  recon loss: -192.1936  pred error: 0.0023  epoch time: 36.88
+Training DynamicsModel - finished epoch 3 --[Training] contrast loss: 0.0764  mse loss: 0.0722  back mse loss: 0.1791  recon loss: -191.8600  pred error: 0.0022  epoch time: 37.23
+Training DynamicsModel - finished epoch 4 --[Training] contrast loss: 0.0763  mse loss: 0.0675  back mse loss: 0.1751  recon loss: -193.2609  pred error: 0.0021  epoch time: 37.28
+Training DynamicsModel - finished epoch 5 --[Training] contrast loss: 0.0765  mse loss: 0.0660  back mse loss: 0.2022  recon loss: -193.2657  pred error: 0.0020  epoch time: 35.52
+Training DynamicsModel - finished epoch 6 --[Training] contrast loss: 0.0762  mse loss: 0.0655  back mse loss: 0.1868  recon loss: -193.9788  pred error: 0.0020  epoch time: 36.49
+Training DynamicsModel - finished epoch 7 --[Training] contrast loss: 0.0761  mse loss: 0.0651  back mse loss: 0.1922  recon loss: -193.4231  pred error: 0.0020  epoch time: 36.80
+Training DynamicsModel - finished epoch 8 --[Training] contrast loss: 0.0762  mse loss: 0.0637  back mse loss: 0.1580  recon loss: -194.0119  pred error: 0.0020  epoch time: 36.31
+Training DynamicsModel - finished epoch 9 --[Training] contrast loss: 0.0759  mse loss: 0.0623  back mse loss: 0.2110  recon loss: -194.4767  pred error: 0.0019  epoch time: 36.67
+Training DynamicsModel - finished epoch 10 --[Training] contrast loss: 0.0759  mse loss: 0.0640  back mse loss: 0.1527  recon loss: -193.8696  pred error: 0.0020  epoch time: 36.85
+Training DynamicsModel - finished epoch 11 --[Training] contrast loss: 0.0758  mse loss: 0.0624  back mse loss: 0.1618  recon loss: -195.9160  pred error: 0.0019  epoch time: 36.13
+Training DynamicsModel - finished epoch 12 --[Training] contrast loss: 0.0754  mse loss: 0.0608  back mse loss: 0.1518  recon loss: -195.2665  pred error: 0.0019  epoch time: 36.03
+Training DynamicsModel - finished epoch 13 --[Training] contrast loss: 0.0758  mse loss: 0.0618  back mse loss: 0.1689  recon loss: -195.6942  pred error: 0.0019  epoch time: 36.42
+Training DynamicsModel - finished epoch 14 --[Training] contrast loss: 0.0759  mse loss: 0.0598  back mse loss: 0.1556  recon loss: -196.7015  pred error: 0.0019  epoch time: 37.69
+Training DynamicsModel - finished epoch 15 --[Training] contrast loss: 0.0757  mse loss: 0.0605  back mse loss: 0.1705  recon loss: -195.9095  pred error: 0.0019  epoch time: 35.74
+Training DynamicsModel - finished epoch 16 --[Training] contrast loss: 0.0756  mse loss: 0.0605  back mse loss: 0.1556  recon loss: -196.0807  pred error: 0.0018  epoch time: 36.39
+Training DynamicsModel - finished epoch 17 --[Training] contrast loss: 0.0753  mse loss: 0.0626  back mse loss: 0.1482  recon loss: -192.3814  pred error: 0.0019  epoch time: 37.47
+Training DynamicsModel - finished epoch 18 --[Training] contrast loss: 0.0753  mse loss: 0.0599  back mse loss: 0.1658  recon loss: -197.5730  pred error: 0.0019  epoch time: 37.59
+Training DynamicsModel - finished epoch 19 --[Training] contrast loss: 0.0752  mse loss: 0.0584  back mse loss: 0.1519  recon loss: -197.4495  pred error: 0.0018  epoch time: 37.02
+Training DynamicsModel - finished epoch 20 --[Training] contrast loss: 0.0751  mse loss: 0.0592  back mse loss: 0.1524  recon loss: -198.1339  pred error: 0.0018  epoch time: 36.76
+Training DynamicsModel - finished epoch 21 --[Training] contrast loss: 0.0752  mse loss: 0.0587  back mse loss: 0.1517  recon loss: -198.7021  pred error: 0.0018  epoch time: 35.90
+Training DynamicsModel - finished epoch 22 --[Training] contrast loss: 0.0750  mse loss: 0.0593  back mse loss: 0.1671  recon loss: -197.9056  pred error: 0.0018  epoch time: 35.84
+Training DynamicsModel - finished epoch 23 --[Training] contrast loss: 0.0750  mse loss: 0.0584  back mse loss: 0.1479  recon loss: -198.4848  pred error: 0.0018  epoch time: 35.21
+Training DynamicsModel - finished epoch 24 --[Training] contrast loss: 0.0750  mse loss: 0.0569  back mse loss: 0.1493  recon loss: -198.9163  pred error: 0.0018  epoch time: 35.99
+Training DynamicsModel - finished epoch 25 --[Training] contrast loss: 0.0750  mse loss: 0.0572  back mse loss: 0.1624  recon loss: -198.3745  pred error: 0.0018  epoch time: 35.29
+Training DynamicsModel - finished epoch 26 --[Training] contrast loss: 0.0749  mse loss: 0.0559  back mse loss: 0.1728  recon loss: -199.3435  pred error: 0.0017  epoch time: 36.16
+Training DynamicsModel - finished epoch 27 --[Training] contrast loss: 0.0746  mse loss: 0.0566  back mse loss: 0.1527  recon loss: -199.5391  pred error: 0.0017  epoch time: 34.92
+Training DynamicsModel - finished epoch 28 --[Training] contrast loss: 0.0745  mse loss: 0.0559  back mse loss: 0.1918  recon loss: -200.1382  pred error: 0.0017  epoch time: 35.37
+Training DynamicsModel - finished epoch 29 --[Training] contrast loss: 0.0746  mse loss: 0.0568  back mse loss: 0.2004  recon loss: -199.8206  pred error: 0.0018  epoch time: 35.07
+Training DynamicsModel - finished epoch 30 --[Training] contrast loss: 0.0744  mse loss: 0.0563  back mse loss: 0.1465  recon loss: -199.7989  pred error: 0.0017  epoch time: 35.00
+Training DynamicsModel - finished epoch 31 --[Training] contrast loss: 0.0745  mse loss: 0.0563  back mse loss: 0.1618  recon loss: -199.2651  pred error: 0.0017  epoch time: 34.82
+Training DynamicsModel - finished epoch 32 --[Training] contrast loss: 0.0742  mse loss: 0.0571  back mse loss: 0.1492  recon loss: -199.3915  pred error: 0.0017  epoch time: 34.17
+Training DynamicsModel - finished epoch 33 --[Training] contrast loss: 0.0743  mse loss: 0.0552  back mse loss: 0.1593  recon loss: -200.5952  pred error: 0.0017  epoch time: 35.92
+Training DynamicsModel - finished epoch 34 --[Training] contrast loss: 0.0742  mse loss: 0.0573  back mse loss: 0.1816  recon loss: -200.2127  pred error: 0.0018  epoch time: 34.66
+Training DynamicsModel - finished epoch 35 --[Training] contrast loss: 0.0746  mse loss: 0.0584  back mse loss: 0.1625  recon loss: -199.4445  pred error: 0.0018  epoch time: 35.15
+Training DynamicsModel - finished epoch 36 --[Training] contrast loss: 0.0743  mse loss: 0.0560  back mse loss: 0.1559  recon loss: -199.9458  pred error: 0.0017  epoch time: 34.94
+Training DynamicsModel - finished epoch 37 --[Training] contrast loss: 0.0739  mse loss: 0.0558  back mse loss: 0.1576  recon loss: -200.2153  pred error: 0.0017  epoch time: 34.85
+Training DynamicsModel - finished epoch 38 --[Training] contrast loss: 0.0739  mse loss: 0.0562  back mse loss: 0.2992  recon loss: -199.7363  pred error: 0.0017  epoch time: 34.58
+Training DynamicsModel - finished epoch 39 --[Training] contrast loss: 0.0741  mse loss: 0.0553  back mse loss: 0.2112  recon loss: -200.8772  pred error: 0.0017  epoch time: 35.19
+Training DynamicsModel - finished epoch 40 --[Training] contrast loss: 0.0739  mse loss: 0.0544  back mse loss: 0.1689  recon loss: -201.3238  pred error: 0.0017  epoch time: 35.41
+Training DynamicsModel - finished epoch 41 --[Training] contrast loss: 0.0738  mse loss: 0.0531  back mse loss: 0.1614  recon loss: -201.2117  pred error: 0.0016  epoch time: 36.16
+Training DynamicsModel - finished epoch 42 --[Training] contrast loss: 0.0739  mse loss: 0.0535  back mse loss: 0.1457  recon loss: -201.7982  pred error: 0.0017  epoch time: 35.27
+Training DynamicsModel - finished epoch 43 --[Training] contrast loss: 0.0736  mse loss: 0.0534  back mse loss: 0.1428  recon loss: -201.7052  pred error: 0.0016  epoch time: 36.65
+Training DynamicsModel - finished epoch 44 --[Training] contrast loss: 0.0736  mse loss: 0.0537  back mse loss: 0.1509  recon loss: -201.7175  pred error: 0.0017  epoch time: 34.92
+Training DynamicsModel - finished epoch 45 --[Training] contrast loss: 0.0736  mse loss: 0.0532  back mse loss: 0.1378  recon loss: -202.0883  pred error: 0.0016  epoch time: 35.84
+Training DynamicsModel - finished epoch 46 --[Training] contrast loss: 0.0734  mse loss: 0.0530  back mse loss: 0.1350  recon loss: -202.4061  pred error: 0.0016  epoch time: 36.23
+Training DynamicsModel - finished epoch 47 --[Training] contrast loss: 0.0734  mse loss: 0.0538  back mse loss: 0.1314  recon loss: -201.8788  pred error: 0.0016  epoch time: 36.31
+Training DynamicsModel - finished epoch 48 --[Training] contrast loss: 0.0736  mse loss: 0.0541  back mse loss: 0.1331  recon loss: -201.0747  pred error: 0.0017  epoch time: 35.24
+Training DynamicsModel - finished epoch 49 --[Training] contrast loss: 0.0734  mse loss: 0.0536  back mse loss: 0.1335  recon loss: -203.0651  pred error: 0.0016  epoch time: 35.16
+Saving snapshot...
+Saved
+------------------------------------------
+| AverageDiscountedReturn | -293         |
+| AverageReturn           | -389         |
+| AvgModelEpochTime       | nan          |
+| EnvExecTime             | 0.283        |
+| Epochs                  | 49           |
+| Itr                     | 5            |
+| ItrTime                 | 2.2e+03      |
+| MaxReturn               | -222         |
+| MinReturn               | -677         |
+| NumTrajs                | 10           |
+| PolicyExecTime          | 395          |
+| PredictionError         | 0.0019012076 |
+| StdReturn               | 126          |
+| Time                    | 1.58e+04     |
+| Time-EnvSampleProc      | 0.00426      |
+| Time-EnvSampling        | 396          |
+| Time-ModelFit           | 1.8e+03      |
+| n_timesteps             | 12000        |
+------------------------------------------
+
+ ---------------- Iteration 6 ----------------
+Obtaining samples from the environment using the policy...
+Processing environment samples...
+Training dynamics model for 50 epochs ...
+Training DynamicsModel - finished epoch 0 --[Training] contrast loss: 0.0692  mse loss: 0.1178  back mse loss: 0.4400  recon loss: -165.2941  pred error: 0.0046  epoch time: 42.30
+Training DynamicsModel - finished epoch 1 --[Training] contrast loss: 0.0688  mse loss: 0.0655  back mse loss: 0.2478  recon loss: -194.6962  pred error: 0.0021  epoch time: 42.37
+Training DynamicsModel - finished epoch 2 --[Training] contrast loss: 0.0686  mse loss: 0.0601  back mse loss: 0.2133  recon loss: -199.2264  pred error: 0.0019  epoch time: 42.47
+Training DynamicsModel - finished epoch 3 --[Training] contrast loss: 0.0686  mse loss: 0.0570  back mse loss: 0.1719  recon loss: -201.2664  pred error: 0.0018  epoch time: 42.11
+Training DynamicsModel - finished epoch 4 --[Training] contrast loss: 0.0687  mse loss: 0.0536  back mse loss: 0.1612  recon loss: -201.3976  pred error: 0.0018  epoch time: 42.87
+Training DynamicsModel - finished epoch 5 --[Training] contrast loss: 0.0685  mse loss: 0.0534  back mse loss: 0.1713  recon loss: -202.3741  pred error: 0.0017  epoch time: 42.27
+Training DynamicsModel - finished epoch 6 --[Training] contrast loss: 0.0685  mse loss: 0.0540  back mse loss: 0.1470  recon loss: -202.6351  pred error: 0.0017  epoch time: 43.28
+Training DynamicsModel - finished epoch 7 --[Training] contrast loss: 0.0683  mse loss: 0.0524  back mse loss: 0.1502  recon loss: -203.7169  pred error: 0.0017  epoch time: 43.06
+Training DynamicsModel - finished epoch 8 --[Training] contrast loss: 0.0682  mse loss: 0.0524  back mse loss: 0.1737  recon loss: -203.6475  pred error: 0.0017  epoch time: 42.28
+Training DynamicsModel - finished epoch 9 --[Training] contrast loss: 0.0682  mse loss: 0.0530  back mse loss: 0.1662  recon loss: -203.6035  pred error: 0.0017  epoch time: 41.55
+Training DynamicsModel - finished epoch 10 --[Training] contrast loss: 0.0682  mse loss: 0.0555  back mse loss: 0.1582  recon loss: -200.7677  pred error: 0.0018  epoch time: 41.74
+Training DynamicsModel - finished epoch 11 --[Training] contrast loss: 0.0680  mse loss: 0.0525  back mse loss: 0.1662  recon loss: -204.3938  pred error: 0.0017  epoch time: 40.95
+Training DynamicsModel - finished epoch 12 --[Training] contrast loss: 0.0679  mse loss: 0.0540  back mse loss: 0.1578  recon loss: -204.1092  pred error: 0.0017  epoch time: 40.66
+Training DynamicsModel - finished epoch 13 --[Training] contrast loss: 0.0680  mse loss: 0.0537  back mse loss: 0.1416  recon loss: -204.3018  pred error: 0.0017  epoch time: 40.19
+Training DynamicsModel - finished epoch 14 --[Training] contrast loss: 0.0679  mse loss: 0.0531  back mse loss: 0.1637  recon loss: -204.8773  pred error: 0.0017  epoch time: 39.82
+Training DynamicsModel - finished epoch 15 --[Training] contrast loss: 0.0678  mse loss: 0.0526  back mse loss: 0.1493  recon loss: -204.8651  pred error: 0.0017  epoch time: 40.84
+Training DynamicsModel - finished epoch 16 --[Training] contrast loss: 0.0679  mse loss: 0.0522  back mse loss: 0.1466  recon loss: -205.1750  pred error: 0.0017  epoch time: 39.46
+Training DynamicsModel - finished epoch 17 --[Training] contrast loss: 0.0677  mse loss: 0.0522  back mse loss: 0.1460  recon loss: -205.0522  pred error: 0.0017  epoch time: 40.44
+Training DynamicsModel - finished epoch 18 --[Training] contrast loss: 0.0676  mse loss: 0.0516  back mse loss: 0.1471  recon loss: -205.3401  pred error: 0.0017  epoch time: 41.02
+Training DynamicsModel - finished epoch 19 --[Training] contrast loss: 0.0674  mse loss: 0.0522  back mse loss: 0.1443  recon loss: -205.4468  pred error: 0.0017  epoch time: 41.28
+Training DynamicsModel - finished epoch 20 --[Training] contrast loss: 0.0673  mse loss: 0.0525  back mse loss: 0.1561  recon loss: -204.7112  pred error: 0.0017  epoch time: 39.55
+Training DynamicsModel - finished epoch 21 --[Training] contrast loss: 0.0675  mse loss: 0.0517  back mse loss: 0.1436  recon loss: -205.3841  pred error: 0.0017  epoch time: 40.58
+Training DynamicsModel - finished epoch 22 --[Training] contrast loss: 0.0672  mse loss: 0.0524  back mse loss: 0.1463  recon loss: -205.7213  pred error: 0.0017  epoch time: 40.57
+Training DynamicsModel - finished epoch 23 --[Training] contrast loss: 0.0670  mse loss: 0.0525  back mse loss: 0.1445  recon loss: -205.7823  pred error: 0.0017  epoch time: 41.13
+Training DynamicsModel - finished epoch 24 --[Training] contrast loss: 0.0670  mse loss: 0.0533  back mse loss: 0.1623  recon loss: -203.5836  pred error: 0.0017  epoch time: 39.88
+Training DynamicsModel - finished epoch 25 --[Training] contrast loss: 0.0672  mse loss: 0.0523  back mse loss: 0.1459  recon loss: -206.2172  pred error: 0.0017  epoch time: 40.57
+Training DynamicsModel - finished epoch 26 --[Training] contrast loss: 0.0671  mse loss: 0.0528  back mse loss: 0.1458  recon loss: -205.4811  pred error: 0.0017  epoch time: 39.91
+Training DynamicsModel - finished epoch 27 --[Training] contrast loss: 0.0669  mse loss: 0.0520  back mse loss: 0.1438  recon loss: -205.5099  pred error: 0.0017  epoch time: 40.64
+Training DynamicsModel - finished epoch 28 --[Training] contrast loss: 0.0671  mse loss: 0.0533  back mse loss: 0.1524  recon loss: -206.2422  pred error: 0.0017  epoch time: 40.71
+Training DynamicsModel - finished epoch 29 --[Training] contrast loss: 0.0667  mse loss: 0.0528  back mse loss: 0.1517  recon loss: -205.1611  pred error: 0.0017  epoch time: 39.91
+Training DynamicsModel - finished epoch 30 --[Training] contrast loss: 0.0670  mse loss: 0.0533  back mse loss: 0.1501  recon loss: -206.4251  pred error: 0.0017  epoch time: 40.28
+Training DynamicsModel - finished epoch 31 --[Training] contrast loss: 0.0672  mse loss: 0.0531  back mse loss: 0.1525  recon loss: -206.3662  pred error: 0.0017  epoch time: 40.78
+Training DynamicsModel - finished epoch 32 --[Training] contrast loss: 0.0671  mse loss: 0.0521  back mse loss: 0.1385  recon loss: -206.5415  pred error: 0.0017  epoch time: 40.56
+Training DynamicsModel - finished epoch 33 --[Training] contrast loss: 0.0670  mse loss: 0.0519  back mse loss: 0.1459  recon loss: -205.8244  pred error: 0.0016  epoch time: 40.21
+Training DynamicsModel - finished epoch 34 --[Training] contrast loss: 0.0667  mse loss: 0.0517  back mse loss: 0.1551  recon loss: -206.8921  pred error: 0.0016  epoch time: 40.07
+Training DynamicsModel - finished epoch 35 --[Training] contrast loss: 0.0667  mse loss: 0.0534  back mse loss: 0.1613  recon loss: -207.0356  pred error: 0.0017  epoch time: 41.32
+Training DynamicsModel - finished epoch 36 --[Training] contrast loss: 0.0667  mse loss: 0.0527  back mse loss: 0.1482  recon loss: -207.1742  pred error: 0.0017  epoch time: 39.12
+Training DynamicsModel - finished epoch 37 --[Training] contrast loss: 0.0668  mse loss: 0.0519  back mse loss: 0.1380  recon loss: -206.8186  pred error: 0.0016  epoch time: 39.74
+Training DynamicsModel - finished epoch 38 --[Training] contrast loss: 0.0667  mse loss: 0.0516  back mse loss: 0.1450  recon loss: -207.7000  pred error: 0.0016  epoch time: 40.36
+Training DynamicsModel - finished epoch 39 --[Training] contrast loss: 0.0665  mse loss: 0.0525  back mse loss: 0.1548  recon loss: -207.4551  pred error: 0.0017  epoch time: 40.28
+Training DynamicsModel - finished epoch 40 --[Training] contrast loss: 0.0668  mse loss: 0.0519  back mse loss: 0.1554  recon loss: -207.4223  pred error: 0.0016  epoch time: 40.32
+Training DynamicsModel - finished epoch 41 --[Training] contrast loss: 0.0667  mse loss: 0.0510  back mse loss: 0.1453  recon loss: -207.2856  pred error: 0.0016  epoch time: 39.99
+Training DynamicsModel - finished epoch 42 --[Training] contrast loss: 0.0665  mse loss: 0.0509  back mse loss: 0.1689  recon loss: -208.2263  pred error: 0.0016  epoch time: 39.99
+Training DynamicsModel - finished epoch 43 --[Training] contrast loss: 0.0666  mse loss: 0.0508  back mse loss: 0.1522  recon loss: -207.3581  pred error: 0.0016  epoch time: 39.90
+Training DynamicsModel - finished epoch 44 --[Training] contrast loss: 0.0663  mse loss: 0.0501  back mse loss: 0.1440  recon loss: -208.0184  pred error: 0.0016  epoch time: 40.38
+Training DynamicsModel - finished epoch 45 --[Training] contrast loss: 0.0665  mse loss: 0.0499  back mse loss: 0.1474  recon loss: -208.7802  pred error: 0.0016  epoch time: 39.85
+Training DynamicsModel - finished epoch 46 --[Training] contrast loss: 0.0662  mse loss: 0.0496  back mse loss: 0.1626  recon loss: -208.2648  pred error: 0.0016  epoch time: 40.43
+Training DynamicsModel - finished epoch 47 --[Training] contrast loss: 0.0662  mse loss: 0.0498  back mse loss: 0.1428  recon loss: -208.3289  pred error: 0.0016  epoch time: 39.83
+Training DynamicsModel - finished epoch 48 --[Training] contrast loss: 0.0662  mse loss: 0.0498  back mse loss: 0.1466  recon loss: -208.4126  pred error: 0.0016  epoch time: 39.60
+Training DynamicsModel - finished epoch 49 --[Training] contrast loss: 0.0664  mse loss: 0.0498  back mse loss: 0.1524  recon loss: -208.7977  pred error: 0.0016  epoch time: 39.90
+Saving snapshot...
+Saved
+------------------------------------------
+| AverageDiscountedReturn | -282         |
+| AverageReturn           | -364         |
+| AvgModelEpochTime       | nan          |
+| EnvExecTime             | 0.282        |
+| Epochs                  | 49           |
+| Itr                     | 6            |
+| ItrTime                 | 2.44e+03     |
+| MaxReturn               | -246         |
+| MinReturn               | -484         |
+| NumTrajs                | 10           |
+| PolicyExecTime          | 392          |
+| PredictionError         | 0.0017376211 |
+| StdReturn               | 64           |
+| Time                    | 1.98e+04     |
+| Time-EnvSampleProc      | 0.00441      |
+| Time-EnvSampling        | 393          |
+| Time-ModelFit           | 2.04e+03     |
+| n_timesteps             | 14000        |
+------------------------------------------
+
+ ---------------- Iteration 7 ----------------
+Obtaining samples from the environment using the policy...
+Processing environment samples...
+Training dynamics model for 50 epochs ...
+Training DynamicsModel - finished epoch 0 --[Training] contrast loss: 0.0634  mse loss: 0.0935  back mse loss: 0.3241  recon loss: -186.7047  pred error: 0.0035  epoch time: 71.83
+Training DynamicsModel - finished epoch 1 --[Training] contrast loss: 0.0623  mse loss: 0.0618  back mse loss: 0.2442  recon loss: -206.4903  pred error: 0.0020  epoch time: 70.93
+Training DynamicsModel - finished epoch 2 --[Training] contrast loss: 0.0622  mse loss: 0.0594  back mse loss: 0.1726  recon loss: -206.7950  pred error: 0.0019  epoch time: 73.35
+Training DynamicsModel - finished epoch 3 --[Training] contrast loss: 0.0623  mse loss: 0.0598  back mse loss: 0.1581  recon loss: -206.9683  pred error: 0.0019  epoch time: 71.34
+Training DynamicsModel - finished epoch 4 --[Training] contrast loss: 0.0622  mse loss: 0.0585  back mse loss: 0.1546  recon loss: -208.0835  pred error: 0.0019  epoch time: 71.06
+Training DynamicsModel - finished epoch 5 --[Training] contrast loss: 0.0620  mse loss: 0.0576  back mse loss: 0.1539  recon loss: -207.9199  pred error: 0.0018  epoch time: 70.40
+Training DynamicsModel - finished epoch 6 --[Training] contrast loss: 0.0621  mse loss: 0.0580  back mse loss: 0.1557  recon loss: -207.4929  pred error: 0.0018  epoch time: 71.78
+Training DynamicsModel - finished epoch 7 --[Training] contrast loss: 0.0620  mse loss: 0.0567  back mse loss: 0.1936  recon loss: -207.6553  pred error: 0.0018  epoch time: 70.27
+Training DynamicsModel - finished epoch 8 --[Training] contrast loss: 0.0620  mse loss: 0.0581  back mse loss: 0.1820  recon loss: -207.3956  pred error: 0.0018  epoch time: 71.60
+Training DynamicsModel - finished epoch 9 --[Training] contrast loss: 0.0619  mse loss: 0.0579  back mse loss: 0.1616  recon loss: -207.9174  pred error: 0.0018  epoch time: 72.01
+Training DynamicsModel - finished epoch 10 --[Training] contrast loss: 0.0620  mse loss: 0.0551  back mse loss: 0.2021  recon loss: -208.3584  pred error: 0.0017  epoch time: 72.68
+Training DynamicsModel - finished epoch 11 --[Training] contrast loss: 0.0619  mse loss: 0.0548  back mse loss: 0.1505  recon loss: -208.3471  pred error: 0.0017  epoch time: 73.68
+Training DynamicsModel - finished epoch 12 --[Training] contrast loss: 0.0615  mse loss: 0.0558  back mse loss: 0.1697  recon loss: -208.4561  pred error: 0.0017  epoch time: 72.10
+Training DynamicsModel - finished epoch 13 --[Training] contrast loss: 0.0618  mse loss: 0.0558  back mse loss: 0.1460  recon loss: -208.7074  pred error: 0.0017  epoch time: 72.66
+Training DynamicsModel - finished epoch 14 --[Training] contrast loss: 0.0615  mse loss: 0.0541  back mse loss: 0.2045  recon loss: -208.7085  pred error: 0.0017  epoch time: 74.31
+Training DynamicsModel - finished epoch 15 --[Training] contrast loss: 0.0616  mse loss: 0.0558  back mse loss: 0.1712  recon loss: -208.6616  pred error: 0.0017  epoch time: 74.57
+Training DynamicsModel - finished epoch 16 --[Training] contrast loss: 0.0616  mse loss: 0.0561  back mse loss: 0.1890  recon loss: -209.2523  pred error: 0.0017  epoch time: 75.21
+Training DynamicsModel - finished epoch 17 --[Training] contrast loss: 0.0616  mse loss: 0.0557  back mse loss: 0.1892  recon loss: -209.1721  pred error: 0.0017  epoch time: 73.55
+Training DynamicsModel - finished epoch 18 --[Training] contrast loss: 0.0617  mse loss: 0.0554  back mse loss: 0.1438  recon loss: -209.6505  pred error: 0.0017  epoch time: 76.36
+Training DynamicsModel - finished epoch 19 --[Training] contrast loss: 0.0617  mse loss: 0.0557  back mse loss: 0.1415  recon loss: -209.3529  pred error: 0.0017  epoch time: 75.52
+Training DynamicsModel - finished epoch 20 --[Training] contrast loss: 0.0617  mse loss: 0.0572  back mse loss: 0.1392  recon loss: -209.1563  pred error: 0.0018  epoch time: 75.29
+Training DynamicsModel - finished epoch 21 --[Training] contrast loss: 0.0615  mse loss: 0.0547  back mse loss: 0.1524  recon loss: -209.4045  pred error: 0.0017  epoch time: 76.75
+Training DynamicsModel - finished epoch 22 --[Training] contrast loss: 0.0614  mse loss: 0.0538  back mse loss: 0.1392  recon loss: -209.7561  pred error: 0.0017  epoch time: 76.00
+Training DynamicsModel - finished epoch 23 --[Training] contrast loss: 0.0615  mse loss: 0.0553  back mse loss: 0.1515  recon loss: -209.5298  pred error: 0.0017  epoch time: 73.27
+Training DynamicsModel - finished epoch 24 --[Training] contrast loss: 0.0614  mse loss: 0.0546  back mse loss: 0.1478  recon loss: -209.2315  pred error: 0.0017  epoch time: 71.95
+Training DynamicsModel - finished epoch 25 --[Training] contrast loss: 0.0615  mse loss: 0.0540  back mse loss: 0.1473  recon loss: -210.0915  pred error: 0.0017  epoch time: 72.48
+Training DynamicsModel - finished epoch 26 --[Training] contrast loss: 0.0615  mse loss: 0.0540  back mse loss: 0.1840  recon loss: -209.8592  pred error: 0.0017  epoch time: 73.25
+Training DynamicsModel - finished epoch 27 --[Training] contrast loss: 0.0614  mse loss: 0.0550  back mse loss: 0.1509  recon loss: -210.1991  pred error: 0.0017  epoch time: 73.02
+Training DynamicsModel - finished epoch 28 --[Training] contrast loss: 0.0614  mse loss: 0.0540  back mse loss: 0.1475  recon loss: -209.4258  pred error: 0.0017  epoch time: 72.82
+Training DynamicsModel - finished epoch 29 --[Training] contrast loss: 0.0614  mse loss: 0.0542  back mse loss: 0.1378  recon loss: -207.2005  pred error: 0.0017  epoch time: 72.00
+Training DynamicsModel - finished epoch 30 --[Training] contrast loss: 0.0615  mse loss: 0.0561  back mse loss: 0.1541  recon loss: -209.7302  pred error: 0.0017  epoch time: 72.71
+Training DynamicsModel - finished epoch 31 --[Training] contrast loss: 0.0613  mse loss: 0.0549  back mse loss: 0.1392  recon loss: -209.9521  pred error: 0.0017  epoch time: 73.28
+Training DynamicsModel - finished epoch 32 --[Training] contrast loss: 0.0612  mse loss: 0.0532  back mse loss: 0.1334  recon loss: -210.4913  pred error: 0.0016  epoch time: 72.21
+Training DynamicsModel - finished epoch 33 --[Training] contrast loss: 0.0616  mse loss: 0.0534  back mse loss: 0.1326  recon loss: -210.0267  pred error: 0.0016  epoch time: 73.57
+Training DynamicsModel - finished epoch 34 --[Training] contrast loss: 0.0615  mse loss: 0.0531  back mse loss: 0.1596  recon loss: -209.1266  pred error: 0.0017  epoch time: 73.90
+Training DynamicsModel - finished epoch 35 --[Training] contrast loss: 0.0615  mse loss: 0.0536  back mse loss: 0.1496  recon loss: -209.4759  pred error: 0.0017  epoch time: 73.66
+Training DynamicsModel - finished epoch 36 --[Training] contrast loss: 0.0614  mse loss: 0.0534  back mse loss: 0.1730  recon loss: -210.0682  pred error: 0.0016  epoch time: 74.41
+Training DynamicsModel - finished epoch 37 --[Training] contrast loss: 0.0612  mse loss: 0.0532  back mse loss: 0.1398  recon loss: -209.2814  pred error: 0.0016  epoch time: 72.17
+Training DynamicsModel - finished epoch 38 --[Training] contrast loss: 0.0612  mse loss: 0.0537  back mse loss: 0.2002  recon loss: -208.9201  pred error: 0.0017  epoch time: 70.95
+Training DynamicsModel - finished epoch 39 --[Training] contrast loss: 0.0614  mse loss: 0.0529  back mse loss: 0.2032  recon loss: -210.5832  pred error: 0.0016  epoch time: 71.64
+Training DynamicsModel - finished epoch 40 --[Training] contrast loss: 0.0612  mse loss: 0.0523  back mse loss: 0.1958  recon loss: -210.7570  pred error: 0.0016  epoch time: 67.47
+Training DynamicsModel - finished epoch 41 --[Training] contrast loss: 0.0613  mse loss: 0.0516  back mse loss: 0.1937  recon loss: -211.1250  pred error: 0.0016  epoch time: 67.27
+Training DynamicsModel - finished epoch 42 --[Training] contrast loss: 0.0614  mse loss: 0.0522  back mse loss: 0.1968  recon loss: -210.9899  pred error: 0.0016  epoch time: 68.65
+Training DynamicsModel - finished epoch 43 --[Training] contrast loss: 0.0614  mse loss: 0.0524  back mse loss: 0.1602  recon loss: -210.6695  pred error: 0.0016  epoch time: 68.68
+Training DynamicsModel - finished epoch 44 --[Training] contrast loss: 0.0611  mse loss: 0.0529  back mse loss: 0.1470  recon loss: -210.8035  pred error: 0.0016  epoch time: 68.80
+Training DynamicsModel - finished epoch 45 --[Training] contrast loss: 0.0610  mse loss: 0.0519  back mse loss: 0.1433  recon loss: -211.2873  pred error: 0.0016  epoch time: 67.69
+Training DynamicsModel - finished epoch 46 --[Training] contrast loss: 0.0615  mse loss: 0.0529  back mse loss: 0.1453  recon loss: -211.1028  pred error: 0.0016  epoch time: 69.09
+Training DynamicsModel - finished epoch 47 --[Training] contrast loss: 0.0614  mse loss: 0.0510  back mse loss: 0.1280  recon loss: -211.5505  pred error: 0.0016  epoch time: 68.97
+Training DynamicsModel - finished epoch 48 --[Training] contrast loss: 0.0614  mse loss: 0.0515  back mse loss: 0.1434  recon loss: -211.6676  pred error: 0.0016  epoch time: 67.91
+Training DynamicsModel - finished epoch 49 --[Training] contrast loss: 0.0612  mse loss: 0.0532  back mse loss: 0.1427  recon loss: -210.7150  pred error: 0.0017  epoch time: 68.86
+Saving snapshot...
+Saved
+------------------------------------------
+| AverageDiscountedReturn | -280         |
+| AverageReturn           | -366         |
+| AvgModelEpochTime       | nan          |
+| EnvExecTime             | 0.283        |
+| Epochs                  | 49           |
+| Itr                     | 7            |
+| ItrTime                 | 4.21e+03     |
+| MaxReturn               | -220         |
+| MinReturn               | -524         |
+| NumTrajs                | 10           |
+| PolicyExecTime          | 600          |
+| PredictionError         | 0.0017422278 |
+| StdReturn               | 90.6         |
+| Time                    | 2.61e+04     |
+| Time-EnvSampleProc      | 0.0032       |
+| Time-EnvSampling        | 601          |
+| Time-ModelFit           | 3.61e+03     |
+| n_timesteps             | 16000        |
+------------------------------------------
+
+ ---------------- Iteration 8 ----------------
+Obtaining samples from the environment using the policy...
+Processing environment samples...
+Training dynamics model for 50 epochs ...
+Training DynamicsModel - finished epoch 0 --[Training] contrast loss: 0.0590  mse loss: 0.0768  back mse loss: 0.3083  recon loss: -192.3557  pred error: 0.0027  epoch time: 81.47
+Training DynamicsModel - finished epoch 1 --[Training] contrast loss: 0.0582  mse loss: 0.0572  back mse loss: 0.1374  recon loss: -208.1214  pred error: 0.0019  epoch time: 81.80
+Training DynamicsModel - finished epoch 2 --[Training] contrast loss: 0.0579  mse loss: 0.0546  back mse loss: 0.1281  recon loss: -210.1678  pred error: 0.0018  epoch time: 84.05
+Training DynamicsModel - finished epoch 3 --[Training] contrast loss: 0.0578  mse loss: 0.0542  back mse loss: 0.1260  recon loss: -210.5698  pred error: 0.0017  epoch time: 84.31
+Training DynamicsModel - finished epoch 4 --[Training] contrast loss: 0.0579  mse loss: 0.0533  back mse loss: 0.1239  recon loss: -211.4662  pred error: 0.0017  epoch time: 82.99
+Training DynamicsModel - finished epoch 5 --[Training] contrast loss: 0.0578  mse loss: 0.0531  back mse loss: 0.1154  recon loss: -211.0650  pred error: 0.0017  epoch time: 82.87
+Training DynamicsModel - finished epoch 6 --[Training] contrast loss: 0.0576  mse loss: 0.0527  back mse loss: 0.1210  recon loss: -211.4537  pred error: 0.0017  epoch time: 83.13
+Training DynamicsModel - finished epoch 7 --[Training] contrast loss: 0.0578  mse loss: 0.0532  back mse loss: 0.1277  recon loss: -211.2204  pred error: 0.0017  epoch time: 84.85
+Training DynamicsModel - finished epoch 8 --[Training] contrast loss: 0.0577  mse loss: 0.0528  back mse loss: 0.1193  recon loss: -211.3470  pred error: 0.0017  epoch time: 83.77
+Training DynamicsModel - finished epoch 9 --[Training] contrast loss: 0.0577  mse loss: 0.0527  back mse loss: 0.1237  recon loss: -211.3910  pred error: 0.0017  epoch time: 83.51
+Training DynamicsModel - finished epoch 10 --[Training] contrast loss: 0.0575  mse loss: 0.0530  back mse loss: 0.1325  recon loss: -211.6245  pred error: 0.0017  epoch time: 84.29
+Training DynamicsModel - finished epoch 11 --[Training] contrast loss: 0.0575  mse loss: 0.0539  back mse loss: 0.1197  recon loss: -211.5256  pred error: 0.0017  epoch time: 84.07
+Training DynamicsModel - finished epoch 12 --[Training] contrast loss: 0.0574  mse loss: 0.0532  back mse loss: 0.1133  recon loss: -211.3702  pred error: 0.0017  epoch time: 82.25
+Training DynamicsModel - finished epoch 13 --[Training] contrast loss: 0.0576  mse loss: 0.0527  back mse loss: 0.1261  recon loss: -211.4887  pred error: 0.0017  epoch time: 79.13
+Training DynamicsModel - finished epoch 14 --[Training] contrast loss: 0.0576  mse loss: 0.0521  back mse loss: 0.1162  recon loss: -211.9498  pred error: 0.0017  epoch time: 74.89
+Training DynamicsModel - finished epoch 15 --[Training] contrast loss: 0.0573  mse loss: 0.0523  back mse loss: 0.1205  recon loss: -211.5245  pred error: 0.0017  epoch time: 71.03
+Training DynamicsModel - finished epoch 16 --[Training] contrast loss: 0.0575  mse loss: 0.0525  back mse loss: 0.1215  recon loss: -211.6584  pred error: 0.0017  epoch time: 71.38
+Training DynamicsModel - finished epoch 17 --[Training] contrast loss: 0.0573  mse loss: 0.0522  back mse loss: 0.1181  recon loss: -212.1724  pred error: 0.0017  epoch time: 68.38
+Training DynamicsModel - finished epoch 18 --[Training] contrast loss: 0.0573  mse loss: 0.0512  back mse loss: 0.1223  recon loss: -212.2474  pred error: 0.0016  epoch time: 70.92
+Training DynamicsModel - finished epoch 19 --[Training] contrast loss: 0.0572  mse loss: 0.0518  back mse loss: 0.1162  recon loss: -212.0856  pred error: 0.0017  epoch time: 72.89
+Training DynamicsModel - finished epoch 20 --[Training] contrast loss: 0.0574  mse loss: 0.0524  back mse loss: 0.1257  recon loss: -211.8651  pred error: 0.0017  epoch time: 71.29
+Training DynamicsModel - finished epoch 21 --[Training] contrast loss: 0.0573  mse loss: 0.0521  back mse loss: 0.1140  recon loss: -212.0598  pred error: 0.0017  epoch time: 72.58
+Training DynamicsModel - finished epoch 22 --[Training] contrast loss: 0.0571  mse loss: 0.0520  back mse loss: 0.1225  recon loss: -212.0498  pred error: 0.0016  epoch time: 74.12
+Training DynamicsModel - finished epoch 23 --[Training] contrast loss: 0.0575  mse loss: 0.0518  back mse loss: 0.1476  recon loss: -212.9723  pred error: 0.0016  epoch time: 73.32
+Training DynamicsModel - finished epoch 24 --[Training] contrast loss: 0.0573  mse loss: 0.0523  back mse loss: 0.1196  recon loss: -212.2094  pred error: 0.0017  epoch time: 74.13
+Training DynamicsModel - finished epoch 25 --[Training] contrast loss: 0.0575  mse loss: 0.0523  back mse loss: 0.1199  recon loss: -212.0924  pred error: 0.0017  epoch time: 76.02
+Training DynamicsModel - finished epoch 26 --[Training] contrast loss: 0.0573  mse loss: 0.0519  back mse loss: 0.1216  recon loss: -212.6600  pred error: 0.0016  epoch time: 75.32
+Training DynamicsModel - finished epoch 27 --[Training] contrast loss: 0.0572  mse loss: 0.0517  back mse loss: 0.1207  recon loss: -212.0943  pred error: 0.0016  epoch time: 77.06
+Training DynamicsModel - finished epoch 28 --[Training] contrast loss: 0.0573  mse loss: 0.0510  back mse loss: 0.1179  recon loss: -212.8032  pred error: 0.0016  epoch time: 76.01
+Training DynamicsModel - finished epoch 29 --[Training] contrast loss: 0.0572  mse loss: 0.0514  back mse loss: 0.1319  recon loss: -212.8630  pred error: 0.0016  epoch time: 75.71
+Training DynamicsModel - finished epoch 30 --[Training] contrast loss: 0.0570  mse loss: 0.0506  back mse loss: 0.1130  recon loss: -212.8301  pred error: 0.0016  epoch time: 77.80
+Training DynamicsModel - finished epoch 31 --[Training] contrast loss: 0.0569  mse loss: 0.0515  back mse loss: 0.1162  recon loss: -212.3673  pred error: 0.0016  epoch time: 75.99
+Training DynamicsModel - finished epoch 32 --[Training] contrast loss: 0.0570  mse loss: 0.0507  back mse loss: 0.1225  recon loss: -213.2145  pred error: 0.0016  epoch time: 77.42
+Training DynamicsModel - finished epoch 33 --[Training] contrast loss: 0.0572  mse loss: 0.0519  back mse loss: 0.1207  recon loss: -212.0768  pred error: 0.0016  epoch time: 76.45
+Training DynamicsModel - finished epoch 34 --[Training] contrast loss: 0.0571  mse loss: 0.0513  back mse loss: 0.1114  recon loss: -212.8267  pred error: 0.0016  epoch time: 76.63
+Training DynamicsModel - finished epoch 35 --[Training] contrast loss: 0.0571  mse loss: 0.0509  back mse loss: 0.1101  recon loss: -212.8095  pred error: 0.0016  epoch time: 75.46
+Training DynamicsModel - finished epoch 36 --[Training] contrast loss: 0.0574  mse loss: 0.0512  back mse loss: 0.1208  recon loss: -213.0675  pred error: 0.0016  epoch time: 77.38
+Training DynamicsModel - finished epoch 37 --[Training] contrast loss: 0.0573  mse loss: 0.0512  back mse loss: 0.1529  recon loss: -212.8642  pred error: 0.0016  epoch time: 75.49
+Training DynamicsModel - finished epoch 38 --[Training] contrast loss: 0.0571  mse loss: 0.0513  back mse loss: 0.1178  recon loss: -213.6690  pred error: 0.0016  epoch time: 77.09
+Training DynamicsModel - finished epoch 39 --[Training] contrast loss: 0.0573  mse loss: 0.0515  back mse loss: 0.1099  recon loss: -213.1200  pred error: 0.0016  epoch time: 74.78
+Training DynamicsModel - finished epoch 40 --[Training] contrast loss: 0.0571  mse loss: 0.0513  back mse loss: 0.1117  recon loss: -213.0904  pred error: 0.0016  epoch time: 76.49
+Training DynamicsModel - finished epoch 41 --[Training] contrast loss: 0.0573  mse loss: 0.0517  back mse loss: 0.1151  recon loss: -213.1878  pred error: 0.0016  epoch time: 77.40
+Training DynamicsModel - finished epoch 42 --[Training] contrast loss: 0.0572  mse loss: 0.0506  back mse loss: 0.1246  recon loss: -213.8236  pred error: 0.0016  epoch time: 75.92
+Training DynamicsModel - finished epoch 43 --[Training] contrast loss: 0.0569  mse loss: 0.0506  back mse loss: 0.1140  recon loss: -213.8778  pred error: 0.0016  epoch time: 76.29
+Training DynamicsModel - finished epoch 44 --[Training] contrast loss: 0.0570  mse loss: 0.0513  back mse loss: 0.1178  recon loss: -213.3961  pred error: 0.0016  epoch time: 75.55
+Training DynamicsModel - finished epoch 45 --[Training] contrast loss: 0.0572  mse loss: 0.0498  back mse loss: 0.1190  recon loss: -214.0533  pred error: 0.0016  epoch time: 77.32
+Training DynamicsModel - finished epoch 46 --[Training] contrast loss: 0.0570  mse loss: 0.0502  back mse loss: 0.1109  recon loss: -213.4341  pred error: 0.0016  epoch time: 75.44
+Training DynamicsModel - finished epoch 47 --[Training] contrast loss: 0.0569  mse loss: 0.0502  back mse loss: 0.1160  recon loss: -213.4721  pred error: 0.0016  epoch time: 78.00
+Training DynamicsModel - finished epoch 48 --[Training] contrast loss: 0.0569  mse loss: 0.0498  back mse loss: 0.1150  recon loss: -214.0247  pred error: 0.0016  epoch time: 74.65
+Training DynamicsModel - finished epoch 49 --[Training] contrast loss: 0.0568  mse loss: 0.0513  back mse loss: 0.1139  recon loss: -213.3283  pred error: 0.0016  epoch time: 74.98
+Saving snapshot...
+Saved
+------------------------------------------
+| AverageDiscountedReturn | -306         |
+| AverageReturn           | -413         |
+| AvgModelEpochTime       | nan          |
+| EnvExecTime             | 0.304        |
+| Epochs                  | 49           |
+| Itr                     | 8            |
+| ItrTime                 | 4.52e+03     |
+| MaxReturn               | -218         |
+| MinReturn               | -541         |
+| NumTrajs                | 10           |
+| PolicyExecTime          | 644          |
+| PredictionError         | 0.0016683718 |
+| StdReturn               | 98.5         |
+| Time                    | 3.31e+04     |
+| Time-EnvSampleProc      | 0.00354      |
+| Time-EnvSampling        | 645          |
+| Time-ModelFit           | 3.87e+03     |
+| n_timesteps             | 18000        |
+------------------------------------------
+
+ ---------------- Iteration 9 ----------------
+Obtaining samples from the environment using the policy...
+Processing environment samples...
+Training dynamics model for 50 epochs ...
+Training DynamicsModel - finished epoch 0 --[Training] contrast loss: 0.0547  mse loss: 0.0785  back mse loss: 0.3203  recon loss: -193.4410  pred error: 0.0028  epoch time: 57.11
+Training DynamicsModel - finished epoch 1 --[Training] contrast loss: 0.0544  mse loss: 0.0572  back mse loss: 0.1543  recon loss: -209.8143  pred error: 0.0018  epoch time: 58.08
+Training DynamicsModel - finished epoch 2 --[Training] contrast loss: 0.0543  mse loss: 0.0528  back mse loss: 0.1796  recon loss: -212.6090  pred error: 0.0017  epoch time: 56.82
+Training DynamicsModel - finished epoch 3 --[Training] contrast loss: 0.0541  mse loss: 0.0521  back mse loss: 0.1491  recon loss: -213.2884  pred error: 0.0017  epoch time: 57.31
+Training DynamicsModel - finished epoch 4 --[Training] contrast loss: 0.0543  mse loss: 0.0523  back mse loss: 0.1386  recon loss: -213.5041  pred error: 0.0017  epoch time: 57.68
+Training DynamicsModel - finished epoch 5 --[Training] contrast loss: 0.0542  mse loss: 0.0547  back mse loss: 0.1317  recon loss: -211.7113  pred error: 0.0017  epoch time: 59.55
+Training DynamicsModel - finished epoch 6 --[Training] contrast loss: 0.0541  mse loss: 0.0520  back mse loss: 0.1227  recon loss: -213.1918  pred error: 0.0016  epoch time: 57.15
+Training DynamicsModel - finished epoch 7 --[Training] contrast loss: 0.0540  mse loss: 0.0517  back mse loss: 0.1268  recon loss: -213.6180  pred error: 0.0016  epoch time: 57.57
+Training DynamicsModel - finished epoch 8 --[Training] contrast loss: 0.0539  mse loss: 0.0524  back mse loss: 0.1375  recon loss: -213.5851  pred error: 0.0017  epoch time: 57.70
+Training DynamicsModel - finished epoch 9 --[Training] contrast loss: 0.0541  mse loss: 0.0526  back mse loss: 0.1208  recon loss: -213.6386  pred error: 0.0016  epoch time: 59.16
+Training DynamicsModel - finished epoch 10 --[Training] contrast loss: 0.0542  mse loss: 0.0521  back mse loss: 0.1308  recon loss: -213.8595  pred error: 0.0016  epoch time: 59.06
+Training DynamicsModel - finished epoch 11 --[Training] contrast loss: 0.0540  mse loss: 0.0519  back mse loss: 0.1200  recon loss: -214.5738  pred error: 0.0016  epoch time: 58.10
+Training DynamicsModel - finished epoch 12 --[Training] contrast loss: 0.0541  mse loss: 0.0508  back mse loss: 0.1256  recon loss: -214.0582  pred error: 0.0016  epoch time: 57.26
+Training DynamicsModel - finished epoch 13 --[Training] contrast loss: 0.0540  mse loss: 0.0509  back mse loss: 0.1271  recon loss: -214.9491  pred error: 0.0016  epoch time: 58.07
+Training DynamicsModel - finished epoch 14 --[Training] contrast loss: 0.0540  mse loss: 0.0510  back mse loss: 0.1205  recon loss: -215.0973  pred error: 0.0016  epoch time: 58.57
+Training DynamicsModel - finished epoch 15 --[Training] contrast loss: 0.0541  mse loss: 0.0512  back mse loss: 0.1220  recon loss: -214.4848  pred error: 0.0016  epoch time: 59.39
+Training DynamicsModel - finished epoch 16 --[Training] contrast loss: 0.0541  mse loss: 0.0513  back mse loss: 0.1240  recon loss: -215.0517  pred error: 0.0016  epoch time: 56.48
+Training DynamicsModel - finished epoch 17 --[Training] contrast loss: 0.0539  mse loss: 0.0506  back mse loss: 0.1200  recon loss: -215.4290  pred error: 0.0016  epoch time: 58.35
+Training DynamicsModel - finished epoch 18 --[Training] contrast loss: 0.0537  mse loss: 0.0512  back mse loss: 0.1188  recon loss: -215.5565  pred error: 0.0016  epoch time: 57.98
+Training DynamicsModel - finished epoch 19 --[Training] contrast loss: 0.0537  mse loss: 0.0515  back mse loss: 0.1194  recon loss: -214.7701  pred error: 0.0016  epoch time: 56.69
+Training DynamicsModel - finished epoch 20 --[Training] contrast loss: 0.0537  mse loss: 0.0506  back mse loss: 0.1237  recon loss: -215.5440  pred error: 0.0016  epoch time: 58.89
+Training DynamicsModel - finished epoch 21 --[Training] contrast loss: 0.0538  mse loss: 0.0509  back mse loss: 0.1307  recon loss: -215.3588  pred error: 0.0016  epoch time: 56.77
+Training DynamicsModel - finished epoch 22 --[Training] contrast loss: 0.0538  mse loss: 0.0506  back mse loss: 0.1208  recon loss: -215.2324  pred error: 0.0016  epoch time: 58.28
+Training DynamicsModel - finished epoch 23 --[Training] contrast loss: 0.0538  mse loss: 0.0507  back mse loss: 0.1240  recon loss: -215.7032  pred error: 0.0016  epoch time: 57.85
+Training DynamicsModel - finished epoch 24 --[Training] contrast loss: 0.0539  mse loss: 0.0505  back mse loss: 0.1260  recon loss: -215.6332  pred error: 0.0016  epoch time: 57.81
+Training DynamicsModel - finished epoch 25 --[Training] contrast loss: 0.0538  mse loss: 0.0507  back mse loss: 0.1172  recon loss: -215.5226  pred error: 0.0016  epoch time: 57.43
+Training DynamicsModel - finished epoch 26 --[Training] contrast loss: 0.0538  mse loss: 0.0510  back mse loss: 0.1262  recon loss: -215.5919  pred error: 0.0016  epoch time: 57.33
+Training DynamicsModel - finished epoch 27 --[Training] contrast loss: 0.0537  mse loss: 0.0519  back mse loss: 0.1206  recon loss: -215.3456  pred error: 0.0016  epoch time: 57.87
+Training DynamicsModel - finished epoch 28 --[Training] contrast loss: 0.0538  mse loss: 0.0518  back mse loss: 0.1122  recon loss: -215.2810  pred error: 0.0016  epoch time: 57.88
+Training DynamicsModel - finished epoch 29 --[Training] contrast loss: 0.0536  mse loss: 0.0510  back mse loss: 0.1160  recon loss: -215.1165  pred error: 0.0016  epoch time: 56.92
+Training DynamicsModel - finished epoch 30 --[Training] contrast loss: 0.0538  mse loss: 0.0508  back mse loss: 0.2349  recon loss: -215.4231  pred error: 0.0016  epoch time: 56.52
+Training DynamicsModel - finished epoch 31 --[Training] contrast loss: 0.0537  mse loss: 0.0506  back mse loss: 0.1276  recon loss: -215.5507  pred error: 0.0016  epoch time: 57.45
+Training DynamicsModel - finished epoch 32 --[Training] contrast loss: 0.0537  mse loss: 0.0505  back mse loss: 0.1266  recon loss: -215.5739  pred error: 0.0016  epoch time: 55.65
+Training DynamicsModel - finished epoch 33 --[Training] contrast loss: 0.0536  mse loss: 0.0509  back mse loss: 0.1565  recon loss: -215.2564  pred error: 0.0016  epoch time: 55.65
+Training DynamicsModel - finished epoch 34 --[Training] contrast loss: 0.0536  mse loss: 0.0510  back mse loss: 0.1109  recon loss: -215.4883  pred error: 0.0016  epoch time: 55.39
+Training DynamicsModel - finished epoch 35 --[Training] contrast loss: 0.0535  mse loss: 0.0510  back mse loss: 0.1240  recon loss: -215.5432  pred error: 0.0016  epoch time: 56.96
+Training DynamicsModel - finished epoch 36 --[Training] contrast loss: 0.0535  mse loss: 0.0507  back mse loss: 0.1457  recon loss: -215.4282  pred error: 0.0016  epoch time: 55.75
+Training DynamicsModel - finished epoch 37 --[Training] contrast loss: 0.0534  mse loss: 0.0527  back mse loss: 0.2044  recon loss: -214.7505  pred error: 0.0016  epoch time: 55.45
+Training DynamicsModel - finished epoch 38 --[Training] contrast loss: 0.0537  mse loss: 0.0511  back mse loss: 0.1200  recon loss: -215.6372  pred error: 0.0016  epoch time: 55.55
+Training DynamicsModel - finished epoch 39 --[Training] contrast loss: 0.0536  mse loss: 0.0513  back mse loss: 0.1147  recon loss: -215.7583  pred error: 0.0016  epoch time: 56.16
+Training DynamicsModel - finished epoch 40 --[Training] contrast loss: 0.0539  mse loss: 0.0511  back mse loss: 0.1271  recon loss: -216.2346  pred error: 0.0016  epoch time: 56.39
+Training DynamicsModel - finished epoch 41 --[Training] contrast loss: 0.0536  mse loss: 0.0505  back mse loss: 0.1240  recon loss: -216.0369  pred error: 0.0016  epoch time: 55.89
+Training DynamicsModel - finished epoch 42 --[Training] contrast loss: 0.0536  mse loss: 0.0506  back mse loss: 0.1154  recon loss: -216.3038  pred error: 0.0016  epoch time: 57.03
+Training DynamicsModel - finished epoch 43 --[Training] contrast loss: 0.0535  mse loss: 0.0502  back mse loss: 0.1209  recon loss: -216.1742  pred error: 0.0016  epoch time: 56.45
+Training DynamicsModel - finished epoch 44 --[Training] contrast loss: 0.0538  mse loss: 0.0506  back mse loss: 0.1483  recon loss: -216.1320  pred error: 0.0016  epoch time: 57.18
+Training DynamicsModel - finished epoch 45 --[Training] contrast loss: 0.0538  mse loss: 0.0513  back mse loss: 0.1262  recon loss: -216.1210  pred error: 0.0016  epoch time: 56.07
+Training DynamicsModel - finished epoch 46 --[Training] contrast loss: 0.0535  mse loss: 0.0507  back mse loss: 0.1231  recon loss: -216.4752  pred error: 0.0016  epoch time: 55.59
+Training DynamicsModel - finished epoch 47 --[Training] contrast loss: 0.0538  mse loss: 0.0519  back mse loss: 0.1136  recon loss: -216.0598  pred error: 0.0016  epoch time: 57.18
+Training DynamicsModel - finished epoch 48 --[Training] contrast loss: 0.0536  mse loss: 0.0525  back mse loss: 0.1259  recon loss: -214.1582  pred error: 0.0016  epoch time: 57.06
+Training DynamicsModel - finished epoch 49 --[Training] contrast loss: 0.0536  mse loss: 0.0511  back mse loss: 0.1189  recon loss: -216.0689  pred error: 0.0016  epoch time: 56.72
+Saving snapshot...
+Saved
+------------------------------------------
+| AverageDiscountedReturn | -293         |
+| AverageReturn           | -384         |
+| AvgModelEpochTime       | nan          |
+| EnvExecTime             | 0.325        |
+| Epochs                  | 49           |
+| Itr                     | 9            |
+| ItrTime                 | 3.22e+03     |
+| MaxReturn               | -237         |
+| MinReturn               | -521         |
+| NumTrajs                | 10           |
+| PolicyExecTime          | 353          |
+| PredictionError         | 0.0016325839 |
+| StdReturn               | 107          |
+| Time                    | 3.8e+04      |
+| Time-EnvSampleProc      | 0.00703      |
+| Time-EnvSampling        | 354          |
+| Time-ModelFit           | 2.87e+03     |
+| n_timesteps             | 20000        |
+------------------------------------------
+
+ ---------------- Iteration 10 ----------------
+Obtaining samples from the environment using the policy...
+Processing environment samples...
+Training dynamics model for 50 epochs ...
+Training DynamicsModel - finished epoch 0 --[Training] contrast loss: 0.0522  mse loss: 0.0719  back mse loss: 0.3136  recon loss: -200.1492  pred error: 0.0030  epoch time: 64.03
+Training DynamicsModel - finished epoch 1 --[Training] contrast loss: 0.0518  mse loss: 0.0571  back mse loss: 0.2084  recon loss: -212.8089  pred error: 0.0021  epoch time: 63.97
+Training DynamicsModel - finished epoch 2 --[Training] contrast loss: 0.0515  mse loss: 0.0537  back mse loss: 0.1885  recon loss: -214.5246  pred error: 0.0019  epoch time: 63.41
+Training DynamicsModel - finished epoch 3 --[Training] contrast loss: 0.0514  mse loss: 0.0526  back mse loss: 0.1600  recon loss: -213.6104  pred error: 0.0018  epoch time: 64.11
+Training DynamicsModel - finished epoch 4 --[Training] contrast loss: 0.0513  mse loss: 0.0546  back mse loss: 0.1948  recon loss: -213.3008  pred error: 0.0019  epoch time: 63.63
+Training DynamicsModel - finished epoch 5 --[Training] contrast loss: 0.0513  mse loss: 0.0521  back mse loss: 0.1734  recon loss: -213.6067  pred error: 0.0018  epoch time: 64.70
+Training DynamicsModel - finished epoch 6 --[Training] contrast loss: 0.0516  mse loss: 0.0627  back mse loss: 0.1745  recon loss: -212.8145  pred error: 0.0021  epoch time: 63.06
+Training DynamicsModel - finished epoch 7 --[Training] contrast loss: 0.0517  mse loss: 0.0548  back mse loss: 0.1908  recon loss: -214.1929  pred error: 0.0019  epoch time: 64.17
+Training DynamicsModel - finished epoch 8 --[Training] contrast loss: 0.0518  mse loss: 0.0547  back mse loss: 0.2042  recon loss: -214.0000  pred error: 0.0019  epoch time: 63.37
+Training DynamicsModel - finished epoch 9 --[Training] contrast loss: 0.0515  mse loss: 0.0527  back mse loss: 0.1641  recon loss: -214.9968  pred error: 0.0018  epoch time: 64.75
+Training DynamicsModel - finished epoch 10 --[Training] contrast loss: 0.0519  mse loss: 0.0555  back mse loss: 0.1359  recon loss: -212.6165  pred error: 0.0019  epoch time: 63.41
+Training DynamicsModel - finished epoch 11 --[Training] contrast loss: 0.0514  mse loss: 0.0574  back mse loss: 0.1300  recon loss: -210.8931  pred error: 0.0019  epoch time: 63.19
+Training DynamicsModel - finished epoch 12 --[Training] contrast loss: 0.0516  mse loss: 0.0544  back mse loss: 0.1281  recon loss: -211.2128  pred error: 0.0018  epoch time: 64.70
+Training DynamicsModel - finished epoch 13 --[Training] contrast loss: 0.0513  mse loss: 0.0521  back mse loss: 0.1237  recon loss: -213.8947  pred error: 0.0018  epoch time: 64.63
+Training DynamicsModel - finished epoch 14 --[Training] contrast loss: 0.0512  mse loss: 0.0521  back mse loss: 0.1487  recon loss: -213.4514  pred error: 0.0018  epoch time: 63.12
+Training DynamicsModel - finished epoch 15 --[Training] contrast loss: 0.0512  mse loss: 0.0531  back mse loss: 0.1710  recon loss: -214.3350  pred error: 0.0018  epoch time: 60.85
+Training DynamicsModel - finished epoch 16 --[Training] contrast loss: 0.0516  mse loss: 0.0515  back mse loss: 0.1624  recon loss: -214.4148  pred error: 0.0018  epoch time: 60.46
+Training DynamicsModel - finished epoch 17 --[Training] contrast loss: 0.0516  mse loss: 0.0520  back mse loss: 0.1401  recon loss: -213.6358  pred error: 0.0018  epoch time: 60.38
+Training DynamicsModel - finished epoch 18 --[Training] contrast loss: 0.0516  mse loss: 0.0522  back mse loss: 0.1794  recon loss: -211.9175  pred error: 0.0019  epoch time: 58.96
+Training DynamicsModel - finished epoch 19 --[Training] contrast loss: 0.0519  mse loss: 0.0514  back mse loss: 0.1684  recon loss: -213.1564  pred error: 0.0018  epoch time: 58.23
+Training DynamicsModel - finished epoch 20 --[Training] contrast loss: 0.0517  mse loss: 0.0511  back mse loss: 0.1368  recon loss: -214.5870  pred error: 0.0018  epoch time: 59.33
+Training DynamicsModel - finished epoch 21 --[Training] contrast loss: 0.0518  mse loss: 0.0525  back mse loss: 0.1608  recon loss: -214.7871  pred error: 0.0018  epoch time: 57.39
+Training DynamicsModel - finished epoch 22 --[Training] contrast loss: 0.0516  mse loss: 0.0513  back mse loss: 0.1691  recon loss: -214.6363  pred error: 0.0018  epoch time: 58.30
+Training DynamicsModel - finished epoch 23 --[Training] contrast loss: 0.0521  mse loss: 0.0546  back mse loss: 0.1547  recon loss: -211.8327  pred error: 0.0020  epoch time: 58.76
+Training DynamicsModel - finished epoch 24 --[Training] contrast loss: 0.0515  mse loss: 0.0540  back mse loss: 0.1446  recon loss: -214.4970  pred error: 0.0019  epoch time: 59.84
+Training DynamicsModel - finished epoch 25 --[Training] contrast loss: 0.0515  mse loss: 0.0506  back mse loss: 0.1240  recon loss: -215.1895  pred error: 0.0018  epoch time: 59.89
+Training DynamicsModel - finished epoch 26 --[Training] contrast loss: 0.0517  mse loss: 0.0521  back mse loss: 0.1566  recon loss: -213.3433  pred error: 0.0018  epoch time: 59.32
+Training DynamicsModel - finished epoch 27 --[Training] contrast loss: 0.0517  mse loss: 0.0502  back mse loss: 0.1479  recon loss: -211.6825  pred error: 0.0018  epoch time: 59.02
+Training DynamicsModel - finished epoch 28 --[Training] contrast loss: 0.0516  mse loss: 0.0558  back mse loss: 0.1306  recon loss: -212.7075  pred error: 0.0019  epoch time: 59.23
+Training DynamicsModel - finished epoch 29 --[Training] contrast loss: 0.0518  mse loss: 0.0524  back mse loss: 0.1371  recon loss: -214.1827  pred error: 0.0018  epoch time: 59.07
+Training DynamicsModel - finished epoch 30 --[Training] contrast loss: 0.0517  mse loss: 0.0519  back mse loss: 0.1340  recon loss: -215.5174  pred error: 0.0018  epoch time: 58.55
+Training DynamicsModel - finished epoch 31 --[Training] contrast loss: 0.0515  mse loss: 0.0507  back mse loss: 0.1425  recon loss: -215.9295  pred error: 0.0018  epoch time: 58.63
+Training DynamicsModel - finished epoch 32 --[Training] contrast loss: 0.0516  mse loss: 0.0565  back mse loss: 0.1419  recon loss: -211.0136  pred error: 0.0019  epoch time: 59.36
+Training DynamicsModel - finished epoch 33 --[Training] contrast loss: 0.0517  mse loss: 0.0534  back mse loss: 0.1445  recon loss: -213.7591  pred error: 0.0018  epoch time: 58.21
+Training DynamicsModel - finished epoch 34 --[Training] contrast loss: 0.0515  mse loss: 0.0533  back mse loss: 0.1580  recon loss: -213.4057  pred error: 0.0018  epoch time: 60.60
+Training DynamicsModel - finished epoch 35 --[Training] contrast loss: 0.0511  mse loss: 0.0520  back mse loss: 0.1363  recon loss: -214.7032  pred error: 0.0017  epoch time: 57.81
+Training DynamicsModel - finished epoch 36 --[Training] contrast loss: 0.0515  mse loss: 0.0559  back mse loss: 0.1330  recon loss: -213.4799  pred error: 0.0019  epoch time: 57.70
+Training DynamicsModel - finished epoch 37 --[Training] contrast loss: 0.0512  mse loss: 0.0540  back mse loss: 0.1517  recon loss: -213.4453  pred error: 0.0018  epoch time: 58.29
+Training DynamicsModel - finished epoch 38 --[Training] contrast loss: 0.0512  mse loss: 0.0513  back mse loss: 0.1675  recon loss: -214.7611  pred error: 0.0017  epoch time: 59.23
+Training DynamicsModel - finished epoch 39 --[Training] contrast loss: 0.0515  mse loss: 0.0552  back mse loss: 0.1253  recon loss: -212.4231  pred error: 0.0019  epoch time: 58.26
+Training DynamicsModel - finished epoch 40 --[Training] contrast loss: 0.0513  mse loss: 0.0571  back mse loss: 0.1572  recon loss: -211.3250  pred error: 0.0019  epoch time: 59.72
+Training DynamicsModel - finished epoch 41 --[Training] contrast loss: 0.0517  mse loss: 0.0526  back mse loss: 0.1214  recon loss: -212.0733  pred error: 0.0018  epoch time: 58.05
+Training DynamicsModel - finished epoch 42 --[Training] contrast loss: 0.0517  mse loss: 0.0551  back mse loss: 0.1249  recon loss: -210.5087  pred error: 0.0020  epoch time: 58.05
+Training DynamicsModel - finished epoch 43 --[Training] contrast loss: 0.0518  mse loss: 0.0531  back mse loss: 0.1390  recon loss: -213.7444  pred error: 0.0018  epoch time: 58.44
+Training DynamicsModel - finished epoch 44 --[Training] contrast loss: 0.0518  mse loss: 0.0641  back mse loss: 0.1234  recon loss: -210.2065  pred error: 0.0021  epoch time: 59.20
+Training DynamicsModel - finished epoch 45 --[Training] contrast loss: 0.0515  mse loss: 0.0554  back mse loss: 0.1691  recon loss: -212.3106  pred error: 0.0019  epoch time: 58.02
+Training DynamicsModel - finished epoch 46 --[Training] contrast loss: 0.0514  mse loss: 0.0519  back mse loss: 0.1287  recon loss: -215.7238  pred error: 0.0018  epoch time: 58.32
+Training DynamicsModel - finished epoch 47 --[Training] contrast loss: 0.0515  mse loss: 0.0510  back mse loss: 0.1424  recon loss: -213.3064  pred error: 0.0018  epoch time: 57.91
+Training DynamicsModel - finished epoch 48 --[Training] contrast loss: 0.0516  mse loss: 0.0539  back mse loss: 0.1564  recon loss: -214.2231  pred error: 0.0019  epoch time: 59.04
+Training DynamicsModel - finished epoch 49 --[Training] contrast loss: 0.0513  mse loss: 0.0496  back mse loss: 0.1485  recon loss: -215.5352  pred error: 0.0017  epoch time: 57.89
+Saving snapshot...
+Saved
+-----------------------------------------
+| AverageDiscountedReturn | -239        |
+| AverageReturn           | -290        |
+| AvgModelEpochTime       | nan         |
+| EnvExecTime             | 0.336       |
+| Epochs                  | 49          |
+| Itr                     | 10          |
+| ItrTime                 | 3.39e+03    |
+| MaxReturn               | -202        |
+| MinReturn               | -400        |
+| NumTrajs                | 10          |
+| PolicyExecTime          | 365         |
+| PredictionError         | 0.001871846 |
+| StdReturn               | 80.6        |
+| Time                    | 4.29e+04    |
+| Time-EnvSampleProc      | 0.00306     |
+| Time-EnvSampling        | 367         |
+| Time-ModelFit           | 3.03e+03    |
+| n_timesteps             | 22000       |
+-----------------------------------------
+
+ ---------------- Iteration 11 ----------------
+Obtaining samples from the environment using the policy...
+Processing environment samples...
+Training dynamics model for 50 epochs ...
+Training DynamicsModel - finished epoch 0 --[Training] contrast loss: 0.0497  mse loss: 0.0725  back mse loss: 0.2180  recon loss: -198.0716  pred error: 0.0026  epoch time: 63.73
+Training DynamicsModel - finished epoch 1 --[Training] contrast loss: 0.0494  mse loss: 0.0539  back mse loss: 0.1512  recon loss: -214.2845  pred error: 0.0019  epoch time: 65.83
+Training DynamicsModel - finished epoch 2 --[Training] contrast loss: 0.0489  mse loss: 0.0525  back mse loss: 0.1330  recon loss: -215.8825  pred error: 0.0019  epoch time: 65.09
+Training DynamicsModel - finished epoch 3 --[Training] contrast loss: 0.0490  mse loss: 0.0525  back mse loss: 0.1330  recon loss: -216.2122  pred error: 0.0018  epoch time: 64.79
+Training DynamicsModel - finished epoch 4 --[Training] contrast loss: 0.0490  mse loss: 0.0521  back mse loss: 0.1189  recon loss: -216.8506  pred error: 0.0019  epoch time: 62.84
+Training DynamicsModel - finished epoch 5 --[Training] contrast loss: 0.0489  mse loss: 0.0517  back mse loss: 0.1107  recon loss: -217.2829  pred error: 0.0018  epoch time: 64.86
+Training DynamicsModel - finished epoch 6 --[Training] contrast loss: 0.0487  mse loss: 0.0511  back mse loss: 0.1178  recon loss: -217.4398  pred error: 0.0018  epoch time: 63.99
+Training DynamicsModel - finished epoch 7 --[Training] contrast loss: 0.0488  mse loss: 0.0515  back mse loss: 0.1127  recon loss: -217.4446  pred error: 0.0018  epoch time: 66.23
+Training DynamicsModel - finished epoch 8 --[Training] contrast loss: 0.0488  mse loss: 0.0516  back mse loss: 0.1109  recon loss: -217.6913  pred error: 0.0018  epoch time: 63.44
+Training DynamicsModel - finished epoch 9 --[Training] contrast loss: 0.0488  mse loss: 0.0545  back mse loss: 0.1180  recon loss: -214.8537  pred error: 0.0019  epoch time: 65.38
+Training DynamicsModel - finished epoch 10 --[Training] contrast loss: 0.0491  mse loss: 0.0556  back mse loss: 0.1341  recon loss: -215.8843  pred error: 0.0019  epoch time: 63.95
+Training DynamicsModel - finished epoch 11 --[Training] contrast loss: 0.0488  mse loss: 0.0547  back mse loss: 0.1178  recon loss: -216.3410  pred error: 0.0019  epoch time: 64.48
+Training DynamicsModel - finished epoch 12 --[Training] contrast loss: 0.0489  mse loss: 0.0529  back mse loss: 0.1173  recon loss: -217.1505  pred error: 0.0018  epoch time: 64.27
+Training DynamicsModel - finished epoch 13 --[Training] contrast loss: 0.0489  mse loss: 0.0517  back mse loss: 0.1151  recon loss: -218.0354  pred error: 0.0018  epoch time: 64.18
+Training DynamicsModel - finished epoch 14 --[Training] contrast loss: 0.0489  mse loss: 0.0520  back mse loss: 0.1140  recon loss: -218.1732  pred error: 0.0018  epoch time: 64.51
+Training DynamicsModel - finished epoch 15 --[Training] contrast loss: 0.0488  mse loss: 0.0521  back mse loss: 0.1227  recon loss: -217.7028  pred error: 0.0018  epoch time: 63.93
+Training DynamicsModel - finished epoch 16 --[Training] contrast loss: 0.0488  mse loss: 0.0519  back mse loss: 0.1111  recon loss: -218.6335  pred error: 0.0018  epoch time: 63.48
+Training DynamicsModel - finished epoch 17 --[Training] contrast loss: 0.0488  mse loss: 0.0522  back mse loss: 0.1228  recon loss: -218.3444  pred error: 0.0018  epoch time: 64.15
+Training DynamicsModel - finished epoch 18 --[Training] contrast loss: 0.0487  mse loss: 0.0523  back mse loss: 0.1191  recon loss: -218.3697  pred error: 0.0018  epoch time: 63.24
+Training DynamicsModel - finished epoch 19 --[Training] contrast loss: 0.0487  mse loss: 0.0518  back mse loss: 0.1322  recon loss: -218.7657  pred error: 0.0018  epoch time: 62.92
+Training DynamicsModel - finished epoch 20 --[Training] contrast loss: 0.0488  mse loss: 0.0516  back mse loss: 0.1192  recon loss: -218.8076  pred error: 0.0018  epoch time: 65.20
+Training DynamicsModel - finished epoch 21 --[Training] contrast loss: 0.0488  mse loss: 0.0519  back mse loss: 0.1076  recon loss: -218.5526  pred error: 0.0018  epoch time: 62.90
+Training DynamicsModel - finished epoch 22 --[Training] contrast loss: 0.0487  mse loss: 0.0525  back mse loss: 0.1277  recon loss: -219.0045  pred error: 0.0018  epoch time: 64.35
+Training DynamicsModel - finished epoch 23 --[Training] contrast loss: 0.0488  mse loss: 0.0520  back mse loss: 0.1067  recon loss: -218.3083  pred error: 0.0018  epoch time: 63.81
+Training DynamicsModel - finished epoch 24 --[Training] contrast loss: 0.0487  mse loss: 0.0514  back mse loss: 0.1034  recon loss: -219.2445  pred error: 0.0018  epoch time: 64.17
+Training DynamicsModel - finished epoch 25 --[Training] contrast loss: 0.0487  mse loss: 0.0514  back mse loss: 0.1184  recon loss: -218.8899  pred error: 0.0018  epoch time: 64.67
+Training DynamicsModel - finished epoch 26 --[Training] contrast loss: 0.0485  mse loss: 0.0513  back mse loss: 0.1089  recon loss: -219.0043  pred error: 0.0018  epoch time: 65.74
+Training DynamicsModel - finished epoch 27 --[Training] contrast loss: 0.0486  mse loss: 0.0527  back mse loss: 0.1148  recon loss: -218.2991  pred error: 0.0018  epoch time: 64.77
+Training DynamicsModel - finished epoch 28 --[Training] contrast loss: 0.0487  mse loss: 0.0505  back mse loss: 0.1113  recon loss: -219.2164  pred error: 0.0018  epoch time: 62.74
+Training DynamicsModel - finished epoch 29 --[Training] contrast loss: 0.0486  mse loss: 0.0512  back mse loss: 0.1166  recon loss: -219.0969  pred error: 0.0018  epoch time: 64.86
+Training DynamicsModel - finished epoch 30 --[Training] contrast loss: 0.0488  mse loss: 0.0510  back mse loss: 0.1242  recon loss: -219.3609  pred error: 0.0018  epoch time: 63.23
+Training DynamicsModel - finished epoch 31 --[Training] contrast loss: 0.0489  mse loss: 0.0527  back mse loss: 0.1233  recon loss: -218.7718  pred error: 0.0018  epoch time: 65.17
+Training DynamicsModel - finished epoch 32 --[Training] contrast loss: 0.0488  mse loss: 0.0515  back mse loss: 0.1204  recon loss: -219.1608  pred error: 0.0018  epoch time: 64.07
+Training DynamicsModel - finished epoch 33 --[Training] contrast loss: 0.0487  mse loss: 0.0508  back mse loss: 0.1079  recon loss: -219.6810  pred error: 0.0018  epoch time: 64.71
+Training DynamicsModel - finished epoch 34 --[Training] contrast loss: 0.0487  mse loss: 0.0503  back mse loss: 0.1075  recon loss: -219.8953  pred error: 0.0018  epoch time: 62.97
+Training DynamicsModel - finished epoch 35 --[Training] contrast loss: 0.0485  mse loss: 0.0506  back mse loss: 0.1079  recon loss: -219.6298  pred error: 0.0018  epoch time: 65.64
+Training DynamicsModel - finished epoch 36 --[Training] contrast loss: 0.0485  mse loss: 0.0532  back mse loss: 0.1053  recon loss: -219.1543  pred error: 0.0018  epoch time: 64.02
+Training DynamicsModel - finished epoch 37 --[Training] contrast loss: 0.0486  mse loss: 0.0510  back mse loss: 0.1023  recon loss: -219.9350  pred error: 0.0018  epoch time: 64.83
+Training DynamicsModel - finished epoch 38 --[Training] contrast loss: 0.0489  mse loss: 0.0506  back mse loss: 0.1110  recon loss: -219.4413  pred error: 0.0018  epoch time: 62.76
+Training DynamicsModel - finished epoch 39 --[Training] contrast loss: 0.0487  mse loss: 0.0508  back mse loss: 0.1305  recon loss: -219.7717  pred error: 0.0018  epoch time: 65.89
+Training DynamicsModel - finished epoch 40 --[Training] contrast loss: 0.0487  mse loss: 0.0506  back mse loss: 0.1195  recon loss: -219.8269  pred error: 0.0018  epoch time: 63.54
+Training DynamicsModel - finished epoch 41 --[Training] contrast loss: 0.0489  mse loss: 0.0532  back mse loss: 0.1052  recon loss: -218.1614  pred error: 0.0019  epoch time: 64.93
+Training DynamicsModel - finished epoch 42 --[Training] contrast loss: 0.0486  mse loss: 0.0509  back mse loss: 0.1043  recon loss: -219.3544  pred error: 0.0018  epoch time: 64.81
+Training DynamicsModel - finished epoch 43 --[Training] contrast loss: 0.0486  mse loss: 0.0508  back mse loss: 0.1246  recon loss: -219.7243  pred error: 0.0018  epoch time: 63.14
+Training DynamicsModel - finished epoch 44 --[Training] contrast loss: 0.0484  mse loss: 0.0511  back mse loss: 0.1017  recon loss: -219.6773  pred error: 0.0018  epoch time: 64.17
+Training DynamicsModel - finished epoch 45 --[Training] contrast loss: 0.0484  mse loss: 0.0504  back mse loss: 0.1064  recon loss: -220.4348  pred error: 0.0018  epoch time: 64.13
+Training DynamicsModel - finished epoch 46 --[Training] contrast loss: 0.0486  mse loss: 0.0500  back mse loss: 0.1068  recon loss: -220.4804  pred error: 0.0018  epoch time: 64.82
+Training DynamicsModel - finished epoch 47 --[Training] contrast loss: 0.0485  mse loss: 0.0502  back mse loss: 0.1039  recon loss: -219.8647  pred error: 0.0018  epoch time: 63.87
+Training DynamicsModel - finished epoch 48 --[Training] contrast loss: 0.0485  mse loss: 0.0508  back mse loss: 0.0995  recon loss: -220.4879  pred error: 0.0018  epoch time: 64.11
+Training DynamicsModel - finished epoch 49 --[Training] contrast loss: 0.0485  mse loss: 0.0512  back mse loss: 0.1100  recon loss: -220.6059  pred error: 0.0018  epoch time: 63.53
+Saving snapshot...
+Saved
+----------------------------------------
+| AverageDiscountedReturn | -266       |
+| AverageReturn           | -345       |
+| AvgModelEpochTime       | nan        |
+| EnvExecTime             | 0.32       |
+| Epochs                  | 49         |
+| Itr                     | 11         |
+| ItrTime                 | 3.53e+03   |
+| MaxReturn               | -204       |
+| MinReturn               | -521       |
+| NumTrajs                | 10         |
+| PolicyExecTime          | 309        |
+| PredictionError         | 0.00181952 |
+| StdReturn               | 108        |
+| Time                    | 4.76e+04   |
+| Time-EnvSampleProc      | 0.00316    |
+| Time-EnvSampling        | 311        |
+| Time-ModelFit           | 3.22e+03   |
+| n_timesteps             | 24000      |
+----------------------------------------
+
+ ---------------- Iteration 12 ----------------
+Obtaining samples from the environment using the policy...
+Processing environment samples...
+Training dynamics model for 50 epochs ...
+Training DynamicsModel - finished epoch 0 --[Training] contrast loss: 0.0469  mse loss: 0.0806  back mse loss: 0.1588  recon loss: -201.0580  pred error: 0.0034  epoch time: 69.53
+Training DynamicsModel - finished epoch 1 --[Training] contrast loss: 0.0467  mse loss: 0.0578  back mse loss: 0.1089  recon loss: -217.4779  pred error: 0.0021  epoch time: 71.26
+Training DynamicsModel - finished epoch 2 --[Training] contrast loss: 0.0465  mse loss: 0.0551  back mse loss: 0.1104  recon loss: -218.7070  pred error: 0.0020  epoch time: 70.60
+Training DynamicsModel - finished epoch 3 --[Training] contrast loss: 0.0466  mse loss: 0.0556  back mse loss: 0.1090  recon loss: -218.9220  pred error: 0.0020  epoch time: 68.79
+Training DynamicsModel - finished epoch 4 --[Training] contrast loss: 0.0465  mse loss: 0.0551  back mse loss: 0.1066  recon loss: -219.3036  pred error: 0.0020  epoch time: 70.28
+Training DynamicsModel - finished epoch 5 --[Training] contrast loss: 0.0465  mse loss: 0.0549  back mse loss: 0.1224  recon loss: -219.5020  pred error: 0.0020  epoch time: 68.74
+Training DynamicsModel - finished epoch 6 --[Training] contrast loss: 0.0464  mse loss: 0.0553  back mse loss: 0.1008  recon loss: -219.0189  pred error: 0.0020  epoch time: 69.91
+Training DynamicsModel - finished epoch 7 --[Training] contrast loss: 0.0465  mse loss: 0.0549  back mse loss: 0.1001  recon loss: -219.3084  pred error: 0.0020  epoch time: 68.62
+Training DynamicsModel - finished epoch 8 --[Training] contrast loss: 0.0465  mse loss: 0.0545  back mse loss: 0.1549  recon loss: -219.8178  pred error: 0.0020  epoch time: 71.01
+Training DynamicsModel - finished epoch 9 --[Training] contrast loss: 0.0465  mse loss: 0.0552  back mse loss: 0.1201  recon loss: -219.3772  pred error: 0.0020  epoch time: 69.79
+Training DynamicsModel - finished epoch 10 --[Training] contrast loss: 0.0466  mse loss: 0.0554  back mse loss: 0.1029  recon loss: -219.6623  pred error: 0.0020  epoch time: 69.34
+Training DynamicsModel - finished epoch 11 --[Training] contrast loss: 0.0465  mse loss: 0.0544  back mse loss: 0.1140  recon loss: -219.5794  pred error: 0.0020  epoch time: 68.14
+Training DynamicsModel - finished epoch 12 --[Training] contrast loss: 0.0465  mse loss: 0.0552  back mse loss: 0.1145  recon loss: -219.9392  pred error: 0.0020  epoch time: 68.67
+Training DynamicsModel - finished epoch 13 --[Training] contrast loss: 0.0466  mse loss: 0.0552  back mse loss: 0.1031  recon loss: -219.7173  pred error: 0.0020  epoch time: 70.10
+Training DynamicsModel - finished epoch 14 --[Training] contrast loss: 0.0465  mse loss: 0.0545  back mse loss: 0.0992  recon loss: -219.3320  pred error: 0.0020  epoch time: 70.19
+Training DynamicsModel - finished epoch 15 --[Training] contrast loss: 0.0467  mse loss: 0.0537  back mse loss: 0.1018  recon loss: -219.6738  pred error: 0.0019  epoch time: 69.93
+Training DynamicsModel - finished epoch 16 --[Training] contrast loss: 0.0465  mse loss: 0.0545  back mse loss: 0.0970  recon loss: -219.9101  pred error: 0.0020  epoch time: 69.46
+Training DynamicsModel - finished epoch 17 --[Training] contrast loss: 0.0465  mse loss: 0.0539  back mse loss: 0.0974  recon loss: -219.9034  pred error: 0.0019  epoch time: 69.56
+Training DynamicsModel - finished epoch 18 --[Training] contrast loss: 0.0464  mse loss: 0.0538  back mse loss: 0.0983  recon loss: -219.7060  pred error: 0.0020  epoch time: 69.76
+Training DynamicsModel - finished epoch 19 --[Training] contrast loss: 0.0465  mse loss: 0.0534  back mse loss: 0.1111  recon loss: -220.0386  pred error: 0.0019  epoch time: 69.90
+Training DynamicsModel - finished epoch 20 --[Training] contrast loss: 0.0465  mse loss: 0.0544  back mse loss: 0.1384  recon loss: -220.1530  pred error: 0.0019  epoch time: 68.27
+Training DynamicsModel - finished epoch 21 --[Training] contrast loss: 0.0465  mse loss: 0.0542  back mse loss: 0.1179  recon loss: -220.2802  pred error: 0.0019  epoch time: 69.14
+Training DynamicsModel - finished epoch 22 --[Training] contrast loss: 0.0465  mse loss: 0.0548  back mse loss: 0.1136  recon loss: -220.3231  pred error: 0.0020  epoch time: 69.20
+Training DynamicsModel - finished epoch 23 --[Training] contrast loss: 0.0465  mse loss: 0.0558  back mse loss: 0.1245  recon loss: -218.5121  pred error: 0.0020  epoch time: 70.13
+Training DynamicsModel - finished epoch 24 --[Training] contrast loss: 0.0466  mse loss: 0.0553  back mse loss: 0.1124  recon loss: -219.4647  pred error: 0.0020  epoch time: 69.94
+Training DynamicsModel - finished epoch 25 --[Training] contrast loss: 0.0466  mse loss: 0.0540  back mse loss: 0.1163  recon loss: -220.2502  pred error: 0.0019  epoch time: 69.29
+Training DynamicsModel - finished epoch 26 --[Training] contrast loss: 0.0466  mse loss: 0.0543  back mse loss: 0.1058  recon loss: -220.3732  pred error: 0.0019  epoch time: 68.46
+Training DynamicsModel - finished epoch 27 --[Training] contrast loss: 0.0463  mse loss: 0.0539  back mse loss: 0.1024  recon loss: -220.0806  pred error: 0.0019  epoch time: 68.49
+Training DynamicsModel - finished epoch 28 --[Training] contrast loss: 0.0466  mse loss: 0.0540  back mse loss: 0.1113  recon loss: -220.1998  pred error: 0.0019  epoch time: 70.75
+Training DynamicsModel - finished epoch 29 --[Training] contrast loss: 0.0464  mse loss: 0.0539  back mse loss: 0.0964  recon loss: -220.2039  pred error: 0.0019  epoch time: 68.44
+Training DynamicsModel - finished epoch 30 --[Training] contrast loss: 0.0466  mse loss: 0.0536  back mse loss: 0.1075  recon loss: -220.5820  pred error: 0.0019  epoch time: 69.27
+Training DynamicsModel - finished epoch 31 --[Training] contrast loss: 0.0464  mse loss: 0.0544  back mse loss: 0.1060  recon loss: -220.1749  pred error: 0.0019  epoch time: 69.45
+Training DynamicsModel - finished epoch 32 --[Training] contrast loss: 0.0464  mse loss: 0.0546  back mse loss: 0.0987  recon loss: -220.4753  pred error: 0.0020  epoch time: 70.51
+Training DynamicsModel - finished epoch 33 --[Training] contrast loss: 0.0465  mse loss: 0.0544  back mse loss: 0.1075  recon loss: -220.6196  pred error: 0.0019  epoch time: 69.50
+Training DynamicsModel - finished epoch 34 --[Training] contrast loss: 0.0466  mse loss: 0.0546  back mse loss: 0.0932  recon loss: -218.4715  pred error: 0.0019  epoch time: 69.67
+Training DynamicsModel - finished epoch 35 --[Training] contrast loss: 0.0465  mse loss: 0.0542  back mse loss: 0.0971  recon loss: -220.6660  pred error: 0.0019  epoch time: 68.83
+Training DynamicsModel - finished epoch 36 --[Training] contrast loss: 0.0464  mse loss: 0.0539  back mse loss: 0.1094  recon loss: -220.4839  pred error: 0.0019  epoch time: 69.43
+Training DynamicsModel - finished epoch 37 --[Training] contrast loss: 0.0464  mse loss: 0.0540  back mse loss: 0.0930  recon loss: -220.6217  pred error: 0.0019  epoch time: 69.83
+Training DynamicsModel - finished epoch 38 --[Training] contrast loss: 0.0464  mse loss: 0.0537  back mse loss: 0.1026  recon loss: -220.5506  pred error: 0.0019  epoch time: 70.13
+Training DynamicsModel - finished epoch 39 --[Training] contrast loss: 0.0466  mse loss: 0.0539  back mse loss: 0.1135  recon loss: -220.4568  pred error: 0.0019  epoch time: 69.80
+Training DynamicsModel - finished epoch 40 --[Training] contrast loss: 0.0465  mse loss: 0.0533  back mse loss: 0.1011  recon loss: -220.5644  pred error: 0.0019  epoch time: 68.71
+Training DynamicsModel - finished epoch 41 --[Training] contrast loss: 0.0464  mse loss: 0.0538  back mse loss: 0.0929  recon loss: -220.0592  pred error: 0.0019  epoch time: 71.02
+Training DynamicsModel - finished epoch 42 --[Training] contrast loss: 0.0472  mse loss: 0.0601  back mse loss: 0.0910  recon loss: -214.9971  pred error: 0.0020  epoch time: 70.25
+Training DynamicsModel - finished epoch 43 --[Training] contrast loss: 0.0466  mse loss: 0.0537  back mse loss: 0.1117  recon loss: -219.6040  pred error: 0.0019  epoch time: 69.46
+Training DynamicsModel - finished epoch 44 --[Training] contrast loss: 0.0466  mse loss: 0.0528  back mse loss: 0.1001  recon loss: -220.1259  pred error: 0.0018  epoch time: 69.57
+Training DynamicsModel - finished epoch 45 --[Training] contrast loss: 0.0466  mse loss: 0.0526  back mse loss: 0.1121  recon loss: -220.3192  pred error: 0.0018  epoch time: 69.34
+Training DynamicsModel - finished epoch 46 --[Training] contrast loss: 0.0466  mse loss: 0.0522  back mse loss: 0.1002  recon loss: -220.9478  pred error: 0.0018  epoch time: 69.25
+Training DynamicsModel - finished epoch 47 --[Training] contrast loss: 0.0464  mse loss: 0.0526  back mse loss: 0.1226  recon loss: -220.5256  pred error: 0.0018  epoch time: 69.22
+Training DynamicsModel - finished epoch 48 --[Training] contrast loss: 0.0465  mse loss: 0.0527  back mse loss: 0.1149  recon loss: -219.7496  pred error: 0.0018  epoch time: 71.15
+Training DynamicsModel - finished epoch 49 --[Training] contrast loss: 0.0465  mse loss: 0.0514  back mse loss: 0.1080  recon loss: -220.8164  pred error: 0.0018  epoch time: 70.71
+Saving snapshot...
+Saved
+------------------------------------------
+| AverageDiscountedReturn | -279         |
+| AverageReturn           | -363         |
+| AvgModelEpochTime       | nan          |
+| EnvExecTime             | 0.323        |
+| Epochs                  | 49           |
+| Itr                     | 12           |
+| ItrTime                 | 3.8e+03      |
+| MaxReturn               | -212         |
+| MinReturn               | -528         |
+| NumTrajs                | 10           |
+| PolicyExecTime          | 310          |
+| PredictionError         | 0.0019703335 |
+| StdReturn               | 112          |
+| Time                    | 5.27e+04     |
+| Time-EnvSampleProc      | 0.00304      |
+| Time-EnvSampling        | 311          |
+| Time-ModelFit           | 3.49e+03     |
+| n_timesteps             | 26000        |
+------------------------------------------
+
+ ---------------- Iteration 13 ----------------
+Obtaining samples from the environment using the policy...
+Processing environment samples...
+Training dynamics model for 50 epochs ...
+Training DynamicsModel - finished epoch 0 --[Training] contrast loss: 0.0452  mse loss: 0.0781  back mse loss: 0.1897  recon loss: -197.3920  pred error: 0.0032  epoch time: 75.11
+Training DynamicsModel - finished epoch 1 --[Training] contrast loss: 0.0453  mse loss: 0.0556  back mse loss: 0.1220  recon loss: -218.2490  pred error: 0.0019  epoch time: 75.06
+Training DynamicsModel - finished epoch 2 --[Training] contrast loss: 0.0451  mse loss: 0.0535  back mse loss: 0.1082  recon loss: -219.7480  pred error: 0.0019  epoch time: 74.95
+Training DynamicsModel - finished epoch 3 --[Training] contrast loss: 0.0451  mse loss: 0.0524  back mse loss: 0.1222  recon loss: -220.1835  pred error: 0.0019  epoch time: 75.39
+Training DynamicsModel - finished epoch 4 --[Training] contrast loss: 0.0449  mse loss: 0.0519  back mse loss: 0.1051  recon loss: -220.3941  pred error: 0.0018  epoch time: 74.97
+Training DynamicsModel - finished epoch 5 --[Training] contrast loss: 0.0449  mse loss: 0.0523  back mse loss: 0.1101  recon loss: -220.0865  pred error: 0.0019  epoch time: 75.00
+Training DynamicsModel - finished epoch 6 --[Training] contrast loss: 0.0449  mse loss: 0.0518  back mse loss: 0.1079  recon loss: -220.4453  pred error: 0.0018  epoch time: 73.96
+Training DynamicsModel - finished epoch 7 --[Training] contrast loss: 0.0449  mse loss: 0.0520  back mse loss: 0.1006  recon loss: -220.4558  pred error: 0.0018  epoch time: 76.48
+Training DynamicsModel - finished epoch 8 --[Training] contrast loss: 0.0448  mse loss: 0.0517  back mse loss: 0.0992  recon loss: -220.7690  pred error: 0.0018  epoch time: 74.91
+Training DynamicsModel - finished epoch 9 --[Training] contrast loss: 0.0448  mse loss: 0.0521  back mse loss: 0.0994  recon loss: -220.7810  pred error: 0.0018  epoch time: 76.27
+Training DynamicsModel - finished epoch 10 --[Training] contrast loss: 0.0448  mse loss: 0.0521  back mse loss: 0.0998  recon loss: -220.9385  pred error: 0.0018  epoch time: 74.65
+Training DynamicsModel - finished epoch 11 --[Training] contrast loss: 0.0448  mse loss: 0.0509  back mse loss: 0.1010  recon loss: -221.0936  pred error: 0.0018  epoch time: 74.91
+Training DynamicsModel - finished epoch 12 --[Training] contrast loss: 0.0448  mse loss: 0.0511  back mse loss: 0.1076  recon loss: -220.0585  pred error: 0.0018  epoch time: 73.93
+Training DynamicsModel - finished epoch 13 --[Training] contrast loss: 0.0448  mse loss: 0.0511  back mse loss: 0.1055  recon loss: -221.0577  pred error: 0.0018  epoch time: 74.25
+Training DynamicsModel - finished epoch 14 --[Training] contrast loss: 0.0447  mse loss: 0.0518  back mse loss: 0.1022  recon loss: -220.7226  pred error: 0.0018  epoch time: 74.42
+Training DynamicsModel - finished epoch 15 --[Training] contrast loss: 0.0448  mse loss: 0.0514  back mse loss: 0.1051  recon loss: -221.1132  pred error: 0.0018  epoch time: 76.74
+Training DynamicsModel - finished epoch 16 --[Training] contrast loss: 0.0448  mse loss: 0.0514  back mse loss: 0.1075  recon loss: -220.7113  pred error: 0.0018  epoch time: 75.44
+Training DynamicsModel - finished epoch 17 --[Training] contrast loss: 0.0447  mse loss: 0.0515  back mse loss: 0.1066  recon loss: -221.1037  pred error: 0.0018  epoch time: 75.13
+Training DynamicsModel - finished epoch 18 --[Training] contrast loss: 0.0447  mse loss: 0.0510  back mse loss: 0.1211  recon loss: -220.7863  pred error: 0.0018  epoch time: 75.18
+Training DynamicsModel - finished epoch 19 --[Training] contrast loss: 0.0447  mse loss: 0.0511  back mse loss: 0.1032  recon loss: -220.6772  pred error: 0.0018  epoch time: 75.04
+Training DynamicsModel - finished epoch 20 --[Training] contrast loss: 0.0447  mse loss: 0.0511  back mse loss: 0.1106  recon loss: -221.3253  pred error: 0.0018  epoch time: 74.53
+Training DynamicsModel - finished epoch 21 --[Training] contrast loss: 0.0446  mse loss: 0.0511  back mse loss: 0.1056  recon loss: -220.5301  pred error: 0.0018  epoch time: 73.57
+Training DynamicsModel - finished epoch 22 --[Training] contrast loss: 0.0450  mse loss: 0.0509  back mse loss: 0.0946  recon loss: -220.6027  pred error: 0.0018  epoch time: 73.80
+Training DynamicsModel - finished epoch 23 --[Training] contrast loss: 0.0450  mse loss: 0.0508  back mse loss: 0.1192  recon loss: -220.4015  pred error: 0.0018  epoch time: 73.13
+Training DynamicsModel - finished epoch 24 --[Training] contrast loss: 0.0449  mse loss: 0.0506  back mse loss: 0.1002  recon loss: -221.0493  pred error: 0.0018  epoch time: 74.37
+Training DynamicsModel - finished epoch 25 --[Training] contrast loss: 0.0448  mse loss: 0.0506  back mse loss: 0.1008  recon loss: -221.1877  pred error: 0.0018  epoch time: 74.99
+Training DynamicsModel - finished epoch 26 --[Training] contrast loss: 0.0449  mse loss: 0.0508  back mse loss: 0.1054  recon loss: -220.9156  pred error: 0.0018  epoch time: 76.36
+Training DynamicsModel - finished epoch 27 --[Training] contrast loss: 0.0449  mse loss: 0.0501  back mse loss: 0.1046  recon loss: -221.2257  pred error: 0.0018  epoch time: 73.48
+Training DynamicsModel - finished epoch 28 --[Training] contrast loss: 0.0448  mse loss: 0.0499  back mse loss: 0.1079  recon loss: -220.6505  pred error: 0.0018  epoch time: 75.15
+Training DynamicsModel - finished epoch 29 --[Training] contrast loss: 0.0449  mse loss: 0.0499  back mse loss: 0.1042  recon loss: -221.5769  pred error: 0.0018  epoch time: 73.77
+Training DynamicsModel - finished epoch 30 --[Training] contrast loss: 0.0449  mse loss: 0.0502  back mse loss: 0.1039  recon loss: -221.7217  pred error: 0.0018  epoch time: 75.63
+Training DynamicsModel - finished epoch 31 --[Training] contrast loss: 0.0448  mse loss: 0.0494  back mse loss: 0.1226  recon loss: -222.0357  pred error: 0.0017  epoch time: 74.90
+Training DynamicsModel - finished epoch 32 --[Training] contrast loss: 0.0448  mse loss: 0.0494  back mse loss: 0.1104  recon loss: -221.6708  pred error: 0.0017  epoch time: 74.35
+Training DynamicsModel - finished epoch 33 --[Training] contrast loss: 0.0448  mse loss: 0.0494  back mse loss: 0.1134  recon loss: -221.9234  pred error: 0.0017  epoch time: 75.53
+Training DynamicsModel - finished epoch 34 --[Training] contrast loss: 0.0447  mse loss: 0.0504  back mse loss: 0.1297  recon loss: -220.8614  pred error: 0.0018  epoch time: 75.52
+Training DynamicsModel - finished epoch 35 --[Training] contrast loss: 0.0448  mse loss: 0.0522  back mse loss: 0.1120  recon loss: -220.3455  pred error: 0.0017  epoch time: 74.40
+Training DynamicsModel - finished epoch 36 --[Training] contrast loss: 0.0447  mse loss: 0.0495  back mse loss: 0.1076  recon loss: -222.0491  pred error: 0.0017  epoch time: 74.50
+Training DynamicsModel - finished epoch 37 --[Training] contrast loss: 0.0449  mse loss: 0.0495  back mse loss: 0.1450  recon loss: -221.8759  pred error: 0.0017  epoch time: 73.52
+Training DynamicsModel - finished epoch 38 --[Training] contrast loss: 0.0449  mse loss: 0.0494  back mse loss: 0.1654  recon loss: -221.7939  pred error: 0.0017  epoch time: 75.51
+Training DynamicsModel - finished epoch 39 --[Training] contrast loss: 0.0448  mse loss: 0.0489  back mse loss: 0.1248  recon loss: -221.8262  pred error: 0.0017  epoch time: 75.10
+Training DynamicsModel - finished epoch 40 --[Training] contrast loss: 0.0447  mse loss: 0.0489  back mse loss: 0.1150  recon loss: -221.4161  pred error: 0.0017  epoch time: 74.78
+Training DynamicsModel - finished epoch 41 --[Training] contrast loss: 0.0447  mse loss: 0.0490  back mse loss: 0.1161  recon loss: -222.0985  pred error: 0.0017  epoch time: 76.08
+Training DynamicsModel - finished epoch 42 --[Training] contrast loss: 0.0447  mse loss: 0.0483  back mse loss: 0.1072  recon loss: -222.1242  pred error: 0.0017  epoch time: 74.65
+Training DynamicsModel - finished epoch 43 --[Training] contrast loss: 0.0447  mse loss: 0.0491  back mse loss: 0.1070  recon loss: -222.3777  pred error: 0.0017  epoch time: 75.27
+Training DynamicsModel - finished epoch 44 --[Training] contrast loss: 0.0446  mse loss: 0.0489  back mse loss: 0.1031  recon loss: -221.9101  pred error: 0.0017  epoch time: 74.71
+Training DynamicsModel - finished epoch 45 --[Training] contrast loss: 0.0446  mse loss: 0.0493  back mse loss: 0.1071  recon loss: -222.1613  pred error: 0.0017  epoch time: 74.56
+Training DynamicsModel - finished epoch 46 --[Training] contrast loss: 0.0447  mse loss: 0.0500  back mse loss: 0.1058  recon loss: -220.6144  pred error: 0.0017  epoch time: 73.58
+Training DynamicsModel - finished epoch 47 --[Training] contrast loss: 0.0448  mse loss: 0.0490  back mse loss: 0.1007  recon loss: -222.0260  pred error: 0.0017  epoch time: 75.80
+Training DynamicsModel - finished epoch 48 --[Training] contrast loss: 0.0448  mse loss: 0.0490  back mse loss: 0.1248  recon loss: -222.3332  pred error: 0.0017  epoch time: 75.09
+Training DynamicsModel - finished epoch 49 --[Training] contrast loss: 0.0448  mse loss: 0.0494  back mse loss: 0.1148  recon loss: -222.4850  pred error: 0.0017  epoch time: 74.97
+Saving snapshot...
+Saved
+------------------------------------------
+| AverageDiscountedReturn | -277         |
+| AverageReturn           | -354         |
+| AvgModelEpochTime       | nan          |
+| EnvExecTime             | 0.347        |
+| Epochs                  | 49           |
+| Itr                     | 13           |
+| ItrTime                 | 4.07e+03     |
+| MaxReturn               | -213         |
+| MinReturn               | -490         |
+| NumTrajs                | 10           |
+| PolicyExecTime          | 310          |
+| PredictionError         | 0.0018109297 |
+| StdReturn               | 72.1         |
+| Time                    | 5.8e+04      |
+| Time-EnvSampleProc      | 0.00555      |
+| Time-EnvSampling        | 312          |
+| Time-ModelFit           | 3.76e+03     |
+| n_timesteps             | 28000        |
+------------------------------------------
+
+ ---------------- Iteration 14 ----------------
+Obtaining samples from the environment using the policy...
+Processing environment samples...
+Training dynamics model for 50 epochs ...
+Training DynamicsModel - finished epoch 0 --[Training] contrast loss: 0.0433  mse loss: 0.0780  back mse loss: 0.1512  recon loss: -195.8218  pred error: 0.0038  epoch time: 80.77
+Training DynamicsModel - finished epoch 1 --[Training] contrast loss: 0.0438  mse loss: 0.0524  back mse loss: 0.1661  recon loss: -219.3385  pred error: 0.0020  epoch time: 79.89
+Training DynamicsModel - finished epoch 2 --[Training] contrast loss: 0.0433  mse loss: 0.0525  back mse loss: 0.1199  recon loss: -216.6974  pred error: 0.0019  epoch time: 78.76
+Training DynamicsModel - finished epoch 3 --[Training] contrast loss: 0.0432  mse loss: 0.0507  back mse loss: 0.1085  recon loss: -221.2036  pred error: 0.0019  epoch time: 81.13
+Training DynamicsModel - finished epoch 4 --[Training] contrast loss: 0.0435  mse loss: 0.0522  back mse loss: 0.1455  recon loss: -219.4586  pred error: 0.0019  epoch time: 80.53
+Training DynamicsModel - finished epoch 5 --[Training] contrast loss: 0.0433  mse loss: 0.0501  back mse loss: 0.1751  recon loss: -221.2140  pred error: 0.0019  epoch time: 79.70
+Training DynamicsModel - finished epoch 6 --[Training] contrast loss: 0.0433  mse loss: 0.0522  back mse loss: 0.1632  recon loss: -221.3654  pred error: 0.0020  epoch time: 79.58
+Training DynamicsModel - finished epoch 7 --[Training] contrast loss: 0.0433  mse loss: 0.0500  back mse loss: 0.1206  recon loss: -221.0521  pred error: 0.0019  epoch time: 81.10
+Training DynamicsModel - finished epoch 8 --[Training] contrast loss: 0.0433  mse loss: 0.0523  back mse loss: 0.1184  recon loss: -221.3319  pred error: 0.0019  epoch time: 79.96
+Training DynamicsModel - finished epoch 9 --[Training] contrast loss: 0.0432  mse loss: 0.0506  back mse loss: 0.1148  recon loss: -221.8663  pred error: 0.0019  epoch time: 79.74
+Training DynamicsModel - finished epoch 10 --[Training] contrast loss: 0.0432  mse loss: 0.0511  back mse loss: 0.1177  recon loss: -221.4324  pred error: 0.0019  epoch time: 81.05
+Training DynamicsModel - finished epoch 11 --[Training] contrast loss: 0.0434  mse loss: 0.0503  back mse loss: 0.1194  recon loss: -221.8462  pred error: 0.0019  epoch time: 79.91
+Training DynamicsModel - finished epoch 12 --[Training] contrast loss: 0.0431  mse loss: 0.0497  back mse loss: 0.1096  recon loss: -221.9723  pred error: 0.0018  epoch time: 80.18
+Training DynamicsModel - finished epoch 13 --[Training] contrast loss: 0.0431  mse loss: 0.0502  back mse loss: 0.1079  recon loss: -220.9455  pred error: 0.0018  epoch time: 79.63
+Training DynamicsModel - finished epoch 14 --[Training] contrast loss: 0.0430  mse loss: 0.0507  back mse loss: 0.1245  recon loss: -221.2293  pred error: 0.0019  epoch time: 80.01
+Training DynamicsModel - finished epoch 15 --[Training] contrast loss: 0.0432  mse loss: 0.0491  back mse loss: 0.1244  recon loss: -222.3037  pred error: 0.0018  epoch time: 79.16
+Training DynamicsModel - finished epoch 16 --[Training] contrast loss: 0.0432  mse loss: 0.0501  back mse loss: 0.1205  recon loss: -218.5725  pred error: 0.0019  epoch time: 80.83
+Training DynamicsModel - finished epoch 17 --[Training] contrast loss: 0.0432  mse loss: 0.0548  back mse loss: 0.1191  recon loss: -218.0884  pred error: 0.0019  epoch time: 81.30
+Training DynamicsModel - finished epoch 18 --[Training] contrast loss: 0.0430  mse loss: 0.0509  back mse loss: 0.1210  recon loss: -220.3640  pred error: 0.0018  epoch time: 79.39
+Training DynamicsModel - finished epoch 19 --[Training] contrast loss: 0.0433  mse loss: 0.0504  back mse loss: 0.1223  recon loss: -220.9906  pred error: 0.0018  epoch time: 82.29
+Training DynamicsModel - finished epoch 20 --[Training] contrast loss: 0.0430  mse loss: 0.0509  back mse loss: 0.1336  recon loss: -219.9117  pred error: 0.0019  epoch time: 79.83
+Training DynamicsModel - finished epoch 21 --[Training] contrast loss: 0.0433  mse loss: 0.0496  back mse loss: 0.1574  recon loss: -220.9000  pred error: 0.0018  epoch time: 81.73
+Training DynamicsModel - finished epoch 22 --[Training] contrast loss: 0.0436  mse loss: 0.0614  back mse loss: 0.1246  recon loss: -217.0107  pred error: 0.0023  epoch time: 80.90
+Training DynamicsModel - finished epoch 23 --[Training] contrast loss: 0.0434  mse loss: 0.0503  back mse loss: 0.1285  recon loss: -221.0733  pred error: 0.0018  epoch time: 81.06
+Training DynamicsModel - finished epoch 24 --[Training] contrast loss: 0.0433  mse loss: 0.0507  back mse loss: 0.1496  recon loss: -220.8885  pred error: 0.0019  epoch time: 80.91
+Training DynamicsModel - finished epoch 25 --[Training] contrast loss: 0.0433  mse loss: 0.0497  back mse loss: 0.2930  recon loss: -221.9626  pred error: 0.0018  epoch time: 79.88
+Training DynamicsModel - finished epoch 26 --[Training] contrast loss: 0.0433  mse loss: 0.0484  back mse loss: 0.1834  recon loss: -222.0046  pred error: 0.0018  epoch time: 79.45
+Training DynamicsModel - finished epoch 27 --[Training] contrast loss: 0.0433  mse loss: 0.0495  back mse loss: 0.1756  recon loss: -221.6296  pred error: 0.0018  epoch time: 79.92
+Training DynamicsModel - finished epoch 28 --[Training] contrast loss: 0.0433  mse loss: 0.0508  back mse loss: 0.1725  recon loss: -221.1118  pred error: 0.0018  epoch time: 81.31
+Training DynamicsModel - finished epoch 29 --[Training] contrast loss: 0.0432  mse loss: 0.0505  back mse loss: 0.1573  recon loss: -221.3800  pred error: 0.0018  epoch time: 81.57
+Training DynamicsModel - finished epoch 30 --[Training] contrast loss: 0.0433  mse loss: 0.0505  back mse loss: 0.1629  recon loss: -221.2330  pred error: 0.0019  epoch time: 81.36
+Training DynamicsModel - finished epoch 31 --[Training] contrast loss: 0.0434  mse loss: 0.0533  back mse loss: 0.1624  recon loss: -220.7328  pred error: 0.0019  epoch time: 80.67
+Training DynamicsModel - finished epoch 32 --[Training] contrast loss: 0.0434  mse loss: 0.0512  back mse loss: 0.1487  recon loss: -215.4944  pred error: 0.0019  epoch time: 80.77
+Training DynamicsModel - finished epoch 33 --[Training] contrast loss: 0.0433  mse loss: 0.0500  back mse loss: 0.1405  recon loss: -221.3150  pred error: 0.0018  epoch time: 80.97
+Training DynamicsModel - finished epoch 34 --[Training] contrast loss: 0.0433  mse loss: 0.0500  back mse loss: 0.1386  recon loss: -221.2506  pred error: 0.0018  epoch time: 81.49
+Training DynamicsModel - finished epoch 35 --[Training] contrast loss: 0.0433  mse loss: 0.0490  back mse loss: 0.1385  recon loss: -221.9898  pred error: 0.0018  epoch time: 79.64
+Training DynamicsModel - finished epoch 36 --[Training] contrast loss: 0.0433  mse loss: 0.0498  back mse loss: 0.1267  recon loss: -221.9400  pred error: 0.0018  epoch time: 80.51
+Training DynamicsModel - finished epoch 37 --[Training] contrast loss: 0.0433  mse loss: 0.0492  back mse loss: 0.1247  recon loss: -222.0269  pred error: 0.0018  epoch time: 80.15
+Training DynamicsModel - finished epoch 38 --[Training] contrast loss: 0.0432  mse loss: 0.0509  back mse loss: 0.1488  recon loss: -219.9628  pred error: 0.0018  epoch time: 80.60
+Training DynamicsModel - finished epoch 39 --[Training] contrast loss: 0.0433  mse loss: 0.0530  back mse loss: 0.1421  recon loss: -220.4536  pred error: 0.0018  epoch time: 80.04
+Training DynamicsModel - finished epoch 40 --[Training] contrast loss: 0.0433  mse loss: 0.0503  back mse loss: 0.1359  recon loss: -221.7039  pred error: 0.0018  epoch time: 80.00
+Training DynamicsModel - finished epoch 41 --[Training] contrast loss: 0.0432  mse loss: 0.0499  back mse loss: 0.1288  recon loss: -222.0387  pred error: 0.0018  epoch time: 80.08
+Training DynamicsModel - finished epoch 42 --[Training] contrast loss: 0.0433  mse loss: 0.0490  back mse loss: 0.1314  recon loss: -222.0177  pred error: 0.0018  epoch time: 80.54
+Training DynamicsModel - finished epoch 43 --[Training] contrast loss: 0.0433  mse loss: 0.0506  back mse loss: 0.1289  recon loss: -220.2833  pred error: 0.0018  epoch time: 80.34
+Training DynamicsModel - finished epoch 44 --[Training] contrast loss: 0.0433  mse loss: 0.0507  back mse loss: 0.1461  recon loss: -221.1465  pred error: 0.0018  epoch time: 81.97
+Training DynamicsModel - finished epoch 45 --[Training] contrast loss: 0.0434  mse loss: 0.0498  back mse loss: 0.1503  recon loss: -217.2906  pred error: 0.0018  epoch time: 81.18
+Training DynamicsModel - finished epoch 46 --[Training] contrast loss: 0.0434  mse loss: 0.0496  back mse loss: 0.1468  recon loss: -219.7879  pred error: 0.0018  epoch time: 80.13
+Training DynamicsModel - finished epoch 47 --[Training] contrast loss: 0.0435  mse loss: 0.0504  back mse loss: 0.1460  recon loss: -221.5990  pred error: 0.0018  epoch time: 81.07
+Training DynamicsModel - finished epoch 48 --[Training] contrast loss: 0.0433  mse loss: 0.0490  back mse loss: 0.1420  recon loss: -221.8211  pred error: 0.0018  epoch time: 80.67
+Training DynamicsModel - finished epoch 49 --[Training] contrast loss: 0.0434  mse loss: 0.0483  back mse loss: 0.1404  recon loss: -221.8994  pred error: 0.0018  epoch time: 80.06
+Saving snapshot...
+Saved
+------------------------------------------
+| AverageDiscountedReturn | -221         |
+| AverageReturn           | -270         |
+| AvgModelEpochTime       | nan          |
+| EnvExecTime             | 0.332        |
+| Epochs                  | 49           |
+| Itr                     | 14           |
+| ItrTime                 | 4.35e+03     |
+| MaxReturn               | -205         |
+| MinReturn               | -539         |
+| NumTrajs                | 10           |
+| PolicyExecTime          | 309          |
+| PredictionError         | 0.0018964005 |
+| StdReturn               | 103          |
+| Time                    | 6.36e+04     |
+| Time-EnvSampleProc      | 0.00315      |
+| Time-EnvSampling        | 311          |
+| Time-ModelFit           | 4.04e+03     |
+| n_timesteps             | 30000        |
+------------------------------------------
+
+ ---------------- Iteration 15 ----------------
+Obtaining samples from the environment using the policy...
+Processing environment samples...
+Training dynamics model for 50 epochs ...
+Training DynamicsModel - finished epoch 0 --[Training] contrast loss: 0.0425  mse loss: 0.0591  back mse loss: 0.1526  recon loss: -211.3620  pred error: 0.0025  epoch time: 87.13
+Training DynamicsModel - finished epoch 1 --[Training] contrast loss: 0.0422  mse loss: 0.0513  back mse loss: 0.1468  recon loss: -220.0489  pred error: 0.0019  epoch time: 85.14
+Training DynamicsModel - finished epoch 2 --[Training] contrast loss: 0.0422  mse loss: 0.0528  back mse loss: 0.1261  recon loss: -218.7739  pred error: 0.0019  epoch time: 86.10
+Training DynamicsModel - finished epoch 3 --[Training] contrast loss: 0.0420  mse loss: 0.0496  back mse loss: 0.1859  recon loss: -221.1742  pred error: 0.0018  epoch time: 84.58
+Training DynamicsModel - finished epoch 4 --[Training] contrast loss: 0.0420  mse loss: 0.0497  back mse loss: 0.1314  recon loss: -221.8835  pred error: 0.0018  epoch time: 84.68
+Training DynamicsModel - finished epoch 5 --[Training] contrast loss: 0.0420  mse loss: 0.0498  back mse loss: 0.1345  recon loss: -222.1352  pred error: 0.0019  epoch time: 86.88
+Training DynamicsModel - finished epoch 6 --[Training] contrast loss: 0.0418  mse loss: 0.0494  back mse loss: 0.1342  recon loss: -221.9554  pred error: 0.0018  epoch time: 86.29
+Training DynamicsModel - finished epoch 7 --[Training] contrast loss: 0.0418  mse loss: 0.0502  back mse loss: 0.1394  recon loss: -220.7159  pred error: 0.0019  epoch time: 85.30
+Training DynamicsModel - finished epoch 8 --[Training] contrast loss: 0.0418  mse loss: 0.0500  back mse loss: 0.1229  recon loss: -221.1608  pred error: 0.0018  epoch time: 85.99
+Training DynamicsModel - finished epoch 9 --[Training] contrast loss: 0.0418  mse loss: 0.0500  back mse loss: 0.1307  recon loss: -222.1546  pred error: 0.0018  epoch time: 89.20
+Training DynamicsModel - finished epoch 10 --[Training] contrast loss: 0.0419  mse loss: 0.0510  back mse loss: 0.1155  recon loss: -220.0690  pred error: 0.0019  epoch time: 99.44
+Training DynamicsModel - finished epoch 11 --[Training] contrast loss: 0.0419  mse loss: 0.0505  back mse loss: 0.1086  recon loss: -221.1865  pred error: 0.0019  epoch time: 107.11
+Training DynamicsModel - finished epoch 12 --[Training] contrast loss: 0.0418  mse loss: 0.0497  back mse loss: 0.1306  recon loss: -221.9121  pred error: 0.0018  epoch time: 108.58
+Training DynamicsModel - finished epoch 13 --[Training] contrast loss: 0.0419  mse loss: 0.0494  back mse loss: 0.1162  recon loss: -221.7389  pred error: 0.0018  epoch time: 116.47
+Training DynamicsModel - finished epoch 14 --[Training] contrast loss: 0.0418  mse loss: 0.0497  back mse loss: 0.1074  recon loss: -221.5997  pred error: 0.0018  epoch time: 121.99
+Training DynamicsModel - finished epoch 15 --[Training] contrast loss: 0.0420  mse loss: 0.0501  back mse loss: 0.1139  recon loss: -220.7345  pred error: 0.0018  epoch time: 123.60
+Training DynamicsModel - finished epoch 16 --[Training] contrast loss: 0.0419  mse loss: 0.0501  back mse loss: 0.1199  recon loss: -222.2024  pred error: 0.0018  epoch time: 125.51
+Training DynamicsModel - finished epoch 17 --[Training] contrast loss: 0.0419  mse loss: 0.0491  back mse loss: 0.1028  recon loss: -222.7204  pred error: 0.0018  epoch time: 124.82
+Training DynamicsModel - finished epoch 18 --[Training] contrast loss: 0.0419  mse loss: 0.0490  back mse loss: 0.1016  recon loss: -222.8450  pred error: 0.0018  epoch time: 124.18
+Training DynamicsModel - finished epoch 19 --[Training] contrast loss: 0.0418  mse loss: 0.0490  back mse loss: 0.1057  recon loss: -222.7597  pred error: 0.0018  epoch time: 126.16
+Training DynamicsModel - finished epoch 20 --[Training] contrast loss: 0.0419  mse loss: 0.0489  back mse loss: 0.1086  recon loss: -222.7681  pred error: 0.0018  epoch time: 125.66
+Training DynamicsModel - finished epoch 21 --[Training] contrast loss: 0.0419  mse loss: 0.0485  back mse loss: 0.1030  recon loss: -223.0334  pred error: 0.0018  epoch time: 128.32
+Training DynamicsModel - finished epoch 22 --[Training] contrast loss: 0.0419  mse loss: 0.0485  back mse loss: 0.1130  recon loss: -222.4929  pred error: 0.0018  epoch time: 127.01
+Training DynamicsModel - finished epoch 23 --[Training] contrast loss: 0.0419  mse loss: 0.0489  back mse loss: 0.1232  recon loss: -219.6494  pred error: 0.0018  epoch time: 124.11
+Training DynamicsModel - finished epoch 24 --[Training] contrast loss: 0.0420  mse loss: 0.0481  back mse loss: 0.1127  recon loss: -222.8458  pred error: 0.0018  epoch time: 120.22
+Training DynamicsModel - finished epoch 25 --[Training] contrast loss: 0.0419  mse loss: 0.0482  back mse loss: 0.1070  recon loss: -222.8107  pred error: 0.0018  epoch time: 120.43
+Training DynamicsModel - finished epoch 26 --[Training] contrast loss: 0.0418  mse loss: 0.0487  back mse loss: 0.1194  recon loss: -222.5069  pred error: 0.0018  epoch time: 120.86
+Training DynamicsModel - finished epoch 27 --[Training] contrast loss: 0.0418  mse loss: 0.0488  back mse loss: 0.1104  recon loss: -222.9900  pred error: 0.0018  epoch time: 121.14
+Training DynamicsModel - finished epoch 28 --[Training] contrast loss: 0.0418  mse loss: 0.0478  back mse loss: 0.1213  recon loss: -222.8725  pred error: 0.0018  epoch time: 119.37
+Training DynamicsModel - finished epoch 29 --[Training] contrast loss: 0.0418  mse loss: 0.0488  back mse loss: 0.1128  recon loss: -223.3118  pred error: 0.0018  epoch time: 122.20
+Training DynamicsModel - finished epoch 30 --[Training] contrast loss: 0.0419  mse loss: 0.0482  back mse loss: 0.1090  recon loss: -223.2205  pred error: 0.0018  epoch time: 122.14
+Training DynamicsModel - finished epoch 31 --[Training] contrast loss: 0.0418  mse loss: 0.0481  back mse loss: 0.1068  recon loss: -221.8961  pred error: 0.0018  epoch time: 121.32
+Training DynamicsModel - finished epoch 32 --[Training] contrast loss: 0.0418  mse loss: 0.0482  back mse loss: 0.1208  recon loss: -223.4355  pred error: 0.0018  epoch time: 121.57
+Training DynamicsModel - finished epoch 33 --[Training] contrast loss: 0.0419  mse loss: 0.0483  back mse loss: 0.1118  recon loss: -222.8621  pred error: 0.0018  epoch time: 120.19
+Training DynamicsModel - finished epoch 34 --[Training] contrast loss: 0.0419  mse loss: 0.0485  back mse loss: 0.1098  recon loss: -222.9583  pred error: 0.0018  epoch time: 121.36
+Training DynamicsModel - finished epoch 35 --[Training] contrast loss: 0.0418  mse loss: 0.0495  back mse loss: 0.1357  recon loss: -221.8173  pred error: 0.0018  epoch time: 119.46
+Training DynamicsModel - finished epoch 36 --[Training] contrast loss: 0.0419  mse loss: 0.0487  back mse loss: 0.1057  recon loss: -222.8341  pred error: 0.0018  epoch time: 121.85
+Training DynamicsModel - finished epoch 37 --[Training] contrast loss: 0.0419  mse loss: 0.0483  back mse loss: 0.1051  recon loss: -223.0147  pred error: 0.0018  epoch time: 121.84
+Training DynamicsModel - finished epoch 38 --[Training] contrast loss: 0.0419  mse loss: 0.0492  back mse loss: 0.1108  recon loss: -222.6753  pred error: 0.0018  epoch time: 121.92
+Training DynamicsModel - finished epoch 39 --[Training] contrast loss: 0.0418  mse loss: 0.0486  back mse loss: 0.1070  recon loss: -223.0460  pred error: 0.0018  epoch time: 120.49
+Training DynamicsModel - finished epoch 40 --[Training] contrast loss: 0.0417  mse loss: 0.0485  back mse loss: 0.1263  recon loss: -222.1639  pred error: 0.0018  epoch time: 121.92
+Training DynamicsModel - finished epoch 41 --[Training] contrast loss: 0.0418  mse loss: 0.0484  back mse loss: 0.1162  recon loss: -223.0377  pred error: 0.0018  epoch time: 121.36
+Training DynamicsModel - finished epoch 42 --[Training] contrast loss: 0.0418  mse loss: 0.0477  back mse loss: 0.1204  recon loss: -222.2531  pred error: 0.0017  epoch time: 122.35
+Training DynamicsModel - finished epoch 43 --[Training] contrast loss: 0.0418  mse loss: 0.0484  back mse loss: 0.1373  recon loss: -223.1175  pred error: 0.0018  epoch time: 119.46
+Training DynamicsModel - finished epoch 44 --[Training] contrast loss: 0.0418  mse loss: 0.0483  back mse loss: 0.1185  recon loss: -223.4445  pred error: 0.0018  epoch time: 121.48
+Training DynamicsModel - finished epoch 45 --[Training] contrast loss: 0.0418  mse loss: 0.0487  back mse loss: 0.1151  recon loss: -223.5594  pred error: 0.0018  epoch time: 122.32
+Training DynamicsModel - finished epoch 46 --[Training] contrast loss: 0.0419  mse loss: 0.0481  back mse loss: 0.1139  recon loss: -223.0570  pred error: 0.0018  epoch time: 119.39
+Training DynamicsModel - finished epoch 47 --[Training] contrast loss: 0.0418  mse loss: 0.0487  back mse loss: 0.1269  recon loss: -220.1592  pred error: 0.0018  epoch time: 118.96
+Training DynamicsModel - finished epoch 48 --[Training] contrast loss: 0.0418  mse loss: 0.0481  back mse loss: 0.1140  recon loss: -222.3144  pred error: 0.0018  epoch time: 121.63
+Training DynamicsModel - finished epoch 49 --[Training] contrast loss: 0.0417  mse loss: 0.0482  back mse loss: 0.1250  recon loss: -223.5251  pred error: 0.0018  epoch time: 120.29
+Saving snapshot...
+Saved
+-----------------------------------------
+| AverageDiscountedReturn | -288        |
+| AverageReturn           | -374        |
+| AvgModelEpochTime       | nan         |
+| EnvExecTime             | 0.325       |
+| Epochs                  | 49          |
+| Itr                     | 15          |
+| ItrTime                 | 6.02e+03    |
+| MaxReturn               | -239        |
+| MinReturn               | -542        |
+| NumTrajs                | 10          |
+| PolicyExecTime          | 313         |
+| PredictionError         | 0.001810537 |
+| StdReturn               | 71.5        |
+| Time                    | 7.09e+04    |
+| Time-EnvSampleProc      | 0.00316     |
+| Time-EnvSampling        | 315         |
+| Time-ModelFit           | 5.7e+03     |
+| n_timesteps             | 32000       |
+-----------------------------------------
+
+ ---------------- Iteration 16 ----------------
+Obtaining samples from the environment using the policy...
+Processing environment samples...
+Training dynamics model for 50 epochs ...
+Training DynamicsModel - finished epoch 0 --[Training] contrast loss: 0.0412  mse loss: 0.0882  back mse loss: 0.1983  recon loss: -201.8983  pred error: 0.0041  epoch time: 129.48
+Training DynamicsModel - finished epoch 1 --[Training] contrast loss: 0.0409  mse loss: 0.0570  back mse loss: 0.1282  recon loss: -221.2137  pred error: 0.0021  epoch time: 130.16
+Training DynamicsModel - finished epoch 2 --[Training] contrast loss: 0.0408  mse loss: 0.0534  back mse loss: 0.1178  recon loss: -221.7989  pred error: 0.0020  epoch time: 128.17
+Training DynamicsModel - finished epoch 3 --[Training] contrast loss: 0.0407  mse loss: 0.0527  back mse loss: 0.1109  recon loss: -221.9491  pred error: 0.0020  epoch time: 128.02
+Training DynamicsModel - finished epoch 4 --[Training] contrast loss: 0.0406  mse loss: 0.0522  back mse loss: 0.1081  recon loss: -221.5102  pred error: 0.0019  epoch time: 127.70
+Training DynamicsModel - finished epoch 5 --[Training] contrast loss: 0.0405  mse loss: 0.0518  back mse loss: 0.1095  recon loss: -221.3189  pred error: 0.0019  epoch time: 128.44
+Training DynamicsModel - finished epoch 6 --[Training] contrast loss: 0.0405  mse loss: 0.0529  back mse loss: 0.1183  recon loss: -219.1939  pred error: 0.0020  epoch time: 130.48
+Training DynamicsModel - finished epoch 7 --[Training] contrast loss: 0.0404  mse loss: 0.0519  back mse loss: 0.1084  recon loss: -221.2496  pred error: 0.0019  epoch time: 129.89
+Training DynamicsModel - finished epoch 8 --[Training] contrast loss: 0.0406  mse loss: 0.0524  back mse loss: 0.1092  recon loss: -221.8646  pred error: 0.0019  epoch time: 131.91
+Training DynamicsModel - finished epoch 9 --[Training] contrast loss: 0.0405  mse loss: 0.0516  back mse loss: 0.1229  recon loss: -222.0113  pred error: 0.0019  epoch time: 132.62
+Training DynamicsModel - finished epoch 10 --[Training] contrast loss: 0.0406  mse loss: 0.0520  back mse loss: 0.1091  recon loss: -222.0560  pred error: 0.0019  epoch time: 132.68
+Training DynamicsModel - finished epoch 11 --[Training] contrast loss: 0.0405  mse loss: 0.0508  back mse loss: 0.1057  recon loss: -221.9735  pred error: 0.0019  epoch time: 131.09
+Training DynamicsModel - finished epoch 12 --[Training] contrast loss: 0.0405  mse loss: 0.0512  back mse loss: 0.1112  recon loss: -222.5883  pred error: 0.0019  epoch time: 132.56
+Training DynamicsModel - finished epoch 13 --[Training] contrast loss: 0.0405  mse loss: 0.0517  back mse loss: 0.1127  recon loss: -221.2550  pred error: 0.0019  epoch time: 129.85
+Training DynamicsModel - finished epoch 14 --[Training] contrast loss: 0.0404  mse loss: 0.0520  back mse loss: 0.1146  recon loss: -221.4424  pred error: 0.0019  epoch time: 129.80
+Training DynamicsModel - finished epoch 15 --[Training] contrast loss: 0.0405  mse loss: 0.0512  back mse loss: 0.1088  recon loss: -222.2851  pred error: 0.0019  epoch time: 131.10
+Training DynamicsModel - finished epoch 16 --[Training] contrast loss: 0.0406  mse loss: 0.0515  back mse loss: 0.1126  recon loss: -222.2055  pred error: 0.0019  epoch time: 130.19
+Training DynamicsModel - finished epoch 17 --[Training] contrast loss: 0.0407  mse loss: 0.0508  back mse loss: 0.1077  recon loss: -221.9828  pred error: 0.0019  epoch time: 129.63
+Training DynamicsModel - finished epoch 18 --[Training] contrast loss: 0.0405  mse loss: 0.0509  back mse loss: 0.1088  recon loss: -222.1041  pred error: 0.0019  epoch time: 128.48
+Training DynamicsModel - finished epoch 19 --[Training] contrast loss: 0.0406  mse loss: 0.0520  back mse loss: 0.1093  recon loss: -220.8474  pred error: 0.0019  epoch time: 126.99
+Training DynamicsModel - finished epoch 20 --[Training] contrast loss: 0.0405  mse loss: 0.0515  back mse loss: 0.1056  recon loss: -221.8684  pred error: 0.0019  epoch time: 127.62
+Training DynamicsModel - finished epoch 21 --[Training] contrast loss: 0.0404  mse loss: 0.0518  back mse loss: 0.1186  recon loss: -221.6980  pred error: 0.0019  epoch time: 129.90
+Training DynamicsModel - finished epoch 22 --[Training] contrast loss: 0.0407  mse loss: 0.0512  back mse loss: 0.1067  recon loss: -222.0699  pred error: 0.0019  epoch time: 129.45
+Training DynamicsModel - finished epoch 23 --[Training] contrast loss: 0.0406  mse loss: 0.0514  back mse loss: 0.1271  recon loss: -222.2226  pred error: 0.0019  epoch time: 126.36
+Training DynamicsModel - finished epoch 24 --[Training] contrast loss: 0.0406  mse loss: 0.0513  back mse loss: 0.1178  recon loss: -222.0419  pred error: 0.0019  epoch time: 126.49
+Training DynamicsModel - finished epoch 25 --[Training] contrast loss: 0.0406  mse loss: 0.0510  back mse loss: 0.1070  recon loss: -222.0060  pred error: 0.0019  epoch time: 125.44
+Training DynamicsModel - finished epoch 26 --[Training] contrast loss: 0.0406  mse loss: 0.0508  back mse loss: 0.1187  recon loss: -221.3802  pred error: 0.0019  epoch time: 127.89
+Training DynamicsModel - finished epoch 27 --[Training] contrast loss: 0.0405  mse loss: 0.0510  back mse loss: 0.1092  recon loss: -222.3400  pred error: 0.0019  epoch time: 126.73
+Training DynamicsModel - finished epoch 28 --[Training] contrast loss: 0.0404  mse loss: 0.0565  back mse loss: 0.1145  recon loss: -219.5986  pred error: 0.0019  epoch time: 127.96
+Training DynamicsModel - finished epoch 29 --[Training] contrast loss: 0.0405  mse loss: 0.0528  back mse loss: 0.1258  recon loss: -221.8442  pred error: 0.0019  epoch time: 128.41
+Training DynamicsModel - finished epoch 30 --[Training] contrast loss: 0.0406  mse loss: 0.0511  back mse loss: 0.1240  recon loss: -220.9365  pred error: 0.0019  epoch time: 126.72
+Training DynamicsModel - finished epoch 31 --[Training] contrast loss: 0.0405  mse loss: 0.0513  back mse loss: 0.1196  recon loss: -222.5313  pred error: 0.0019  epoch time: 126.99
+Training DynamicsModel - finished epoch 32 --[Training] contrast loss: 0.0406  mse loss: 0.0518  back mse loss: 0.1138  recon loss: -222.5053  pred error: 0.0019  epoch time: 127.88
+Training DynamicsModel - finished epoch 33 --[Training] contrast loss: 0.0405  mse loss: 0.0517  back mse loss: 0.1161  recon loss: -220.7725  pred error: 0.0019  epoch time: 126.06
+Training DynamicsModel - finished epoch 34 --[Training] contrast loss: 0.0404  mse loss: 0.0520  back mse loss: 0.1189  recon loss: -222.1711  pred error: 0.0019  epoch time: 122.83
+Training DynamicsModel - finished epoch 35 --[Training] contrast loss: 0.0405  mse loss: 0.0519  back mse loss: 0.1109  recon loss: -222.1652  pred error: 0.0019  epoch time: 122.08
+Training DynamicsModel - finished epoch 36 --[Training] contrast loss: 0.0404  mse loss: 0.0519  back mse loss: 0.1195  recon loss: -222.5314  pred error: 0.0019  epoch time: 135.51
+Training DynamicsModel - finished epoch 37 --[Training] contrast loss: 0.0404  mse loss: 0.0523  back mse loss: 0.1229  recon loss: -222.3643  pred error: 0.0019  epoch time: 139.20
+Training DynamicsModel - finished epoch 38 --[Training] contrast loss: 0.0404  mse loss: 0.0527  back mse loss: 0.1441  recon loss: -218.5431  pred error: 0.0019  epoch time: 142.84
+Training DynamicsModel - finished epoch 39 --[Training] contrast loss: 0.0404  mse loss: 0.0518  back mse loss: 0.1264  recon loss: -222.0005  pred error: 0.0019  epoch time: 145.95
+Training DynamicsModel - finished epoch 40 --[Training] contrast loss: 0.0404  mse loss: 0.0517  back mse loss: 0.1151  recon loss: -222.3302  pred error: 0.0019  epoch time: 152.20
+Training DynamicsModel - finished epoch 41 --[Training] contrast loss: 0.0404  mse loss: 0.0514  back mse loss: 0.1302  recon loss: -222.5774  pred error: 0.0019  epoch time: 157.10
