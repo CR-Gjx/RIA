@@ -154,7 +154,7 @@ def run_experiment(config):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Trajectory-wise MCL")
-    parser.add_argument("--save_name", default="TMCL/", help="experiments name")
+    parser.add_argument("--save_name", default="RIA/", help="experiments name")
     parser.add_argument("--seed", type=int, default=0, help="random_seed")
     parser.add_argument("--dataset", default="halfcheetah", help="environment flag")
     parser.add_argument(
