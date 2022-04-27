@@ -1,6 +1,6 @@
 # A Relational Intervention Approach for Unsupervised Dynamics Generalization in Model-Based Reinforcement Learning
 
-TensorFlow implementation of "[A Relational Intervention Approach for Unsupervised Dynamics Generalization in Model-Based Reinforcement Learning](https://openreview.net/forum?id=YRq0ZUnzKoZ)" (ICLR 2021).
+TensorFlow implementation of "[A Relational Intervention Approach for Unsupervised Dynamics Generalization in Model-Based Reinforcement Learning](https://openreview.net/forum?id=YRq0ZUnzKoZ)" (ICLR 2022).
 
 ## Method
 
