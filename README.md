@@ -16,13 +16,14 @@ Because the mediator in other paths *e.g.* $S_t$, $A_t$, may amplify or reduce t
 
 ## Instruction
 
-Install MuJoCo 2.1.1 at ~/.mujoco/mujoco-2.1.1 and copy your license key to ~/.mujoco/mjkey.txt
+Install MuJoCo 2.1.0 at ~/.mujoco/mujoco210 and copy your license key to ~/.mujoco/mjkey.txt
 
 Install required packages with below commandsv:
 
 ```
-conda create -n tmcl python=3.6
+conda create -n ria python=3.6
 pip install -r requirements.txt
+conda activate ria
 ```
 
 Train and evaluate agents:
