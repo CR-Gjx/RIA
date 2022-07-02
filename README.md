@@ -35,10 +35,10 @@ python -m run_scripts.run_ria --dataset [pendulum/hopper/slim_humanoid/halfcheet
 ## Reference
 
 ```
-@inproceedings{guo2021relational,
+@article{guo2022relational,
   title={A Relational Intervention Approach for Unsupervised Dynamics Generalization in Model-Based Reinforcement Learning},
-  author={Guo, Jiaxian and Gong, Mingming and Tao, Dacheng},
-  booktitle={International Conference on Learning Representations},
-  year={2021}
+  author={Guo, Jixian and Gong, Mingming and Tao, Dacheng},
+  journal={arXiv preprint arXiv:2206.04551},
+  year={2022}
 }
 ```
