@@ -42,4 +42,4 @@ python -m run_scripts.run_ria --dataset [pendulum/hopper/slim_humanoid/halfcheet
   year={2022}
 }
 ```
-Note: this code is based on the previous work by [Kimin Lee and Younggyo Seo](https://github.com/younggyoseo/trajectory_mcl). Many thanks to [Kimin Lee and Younggyo Seo](https://github.com/younggyoseo/).
+Note: this code is based on the [previous work](https://github.com/younggyoseo/trajectory_mcl) by Kimin Lee and Younggyo Seo. Many thanks to [Kimin Lee and Younggyo Seo](https://github.com/younggyoseo/).
